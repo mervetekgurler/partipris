@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "issue_number": "1",
+    "season_or_month": "septembre",
+    "year": "1964",
+    "director": "l. girouard",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents",
+    "editors": [
+      "paul chamberland",
+      "pierre maheu"
+    ],
+    "collaborators": [
+      "camille limoges",
+      "robert maheu"
+    ],
+    "administration": [
+      "lise théberge",
+      "j.-m. piotte",
+      "thérèse major"
+    ],
+    "publisher": "éditions parti pris",
+    "distributor": "Agence de distribution populaire"
+  },
+  "toc": [
+    {
+      "section": "MANIFESTE 64-65",
+      "title": "manifeste",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "MANIFESTE 64-65",
+      "title": "lettre au lecteur",
+      "authors": [],
+      "page": "18"
+    },
+    {
+      "section": "MANIFESTE 64-65",
+      "title": "bilan d'un combat",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "20"
+    },
+    {
+      "section": "MANIFESTE 64-65",
+      "title": "autocritique de parti pris",
+      "authors": [
+        "jean-marc piotte"
+      ],
+      "page": "36"
+    },
+    {
+      "section": "MANIFESTE 64-65",
+      "title": "notes pour une politisation",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "45"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "lettre de raymond villeneuve",
+      "authors": [
+        "raymond villeneuve"
+      ],
+      "page": "57"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique de l'éducation",
+      "authors": [
+        "laurent girouard"
+      ],
+      "page": "63"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "situation coloniale au québec",
+      "authors": [
+        "jacques lebrecque"
+      ],
+      "page": "64"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "la fièvre monte chez dupuis",
+      "authors": [
+        "andré major"
+      ],
+      "page": "67"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "\"le chat dans le sac\"",
+      "authors": [
+        "denys arcand"
+      ],
+      "page": "69"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le conflit de \"la presse\"",
+      "authors": [
+        "parti pris"
+      ],
+      "page": "70"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "issue_number": "6",
+    "season_or_month": "mars",
+    "year": "1968",
+    "director": "philippe bernard",
+    "description": "revue politique et culturelle paraît tous les mois sur 60 pages",
+    "price": "75¢ (single issue), $6.00 (annual subscription)",
+    "editors": [
+      "gilles bourque",
+      "jan depocas",
+      "gilles dostaler",
+      "thérèse dumouchel",
+      "gabriel gagnon",
+      "pierre maheu",
+      "luc racine",
+      "robert tremblay"
+    ],
+    "collaborators": [
+      "jacques allard",
+      "denis arcand",
+      "rené beaudin",
+      "jacques brault",
+      "andré brochu",
+      "paul chamberland",
+      "pierre desrosiers",
+      "raoul duguay",
+      "jacques ferron",
+      "charles gagnon",
+      "roger guy",
+      "robert maheu",
+      "gaston miron",
+      "michel pichette",
+      "jean-marc piotte",
+      "narcisso pizarro",
+      "jacques poisson",
+      "jean-robert rémillard",
+      "pierre renaud",
+      "patrick straram",
+      "andré théberge",
+      "gaétan tremblay",
+      "pierre vadeboncoeur",
+      "pierre vallières"
+    ],
+    "administration": [
+      "c.p. 149, station \"N\", Montréal 18, Québec",
+      "administrateur: jean-claude robert",
+      "secrétaire: huguette corbo",
+      "trésorier: marc laliberté",
+      "maquettistes: jacques des rosiers",
+      "maquettistes: rené bonenfant"
+    ],
+    "publisher": "Parti Pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière est, Montréal"
+  },
+  "toc": [
+    {
+      "section": "éditorial",
+      "title": "",
+      "authors": [],
+      "page": "3"
+    },
+    {
+      "section": "Québec politique",
+      "title": "",
+      "authors": [
+        "gilles bourque"
+      ],
+      "page": "9"
+    },
+    {
+      "section": "Québec syndical",
+      "title": "",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "10"
+    },
+    {
+      "section": "Québec économique",
+      "title": "",
+      "authors": [
+        "jean-guy loranger",
+        "luc racine"
+      ],
+      "page": "12"
+    },
+    {
+      "section": "politique internationale",
+      "title": "",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "15"
+    },
+    {
+      "section": "reportage",
+      "title": "les noirs d'ici",
+      "authors": [],
+      "page": "17"
+    },
+    {
+      "section": "table ronde",
+      "title": "l'option Lévesque",
+      "authors": [],
+      "page": "25"
+    },
+    {
+      "section": "document",
+      "title": "manifeste parti pris 1964-1965",
+      "authors": [],
+      "page": "37"
+    },
+    {
+      "section": "entrevue",
+      "title": "avec marcel pépin",
+      "authors": [],
+      "page": "43"
+    },
+    {
+      "section": "",
+      "title": "la poésie rebelle de raoul duguay",
+      "authors": [],
+      "page": "51"
+    },
+    {
+      "section": "",
+      "title": "le Québec en mots dit",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "54"
+    },
+    {
+      "section": "",
+      "title": "critique critique",
+      "authors": [
+        "andré théberge"
+      ],
+      "page": "55"
+    }
+  ]
+}

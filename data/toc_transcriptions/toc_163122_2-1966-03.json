@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "issue_number": "8",
+    "season_or_month": "mars",
+    "year": "1966",
+    "director": "la coopérative d'éditions parti pris",
+    "description": "revue politique et culturelle paraît chaque mois sur 80 pages",
+    "price": "le numéro: 60 cents; 12 numéros: $6.00",
+    "editors": [
+      "paul chamberland",
+      "jan depocas",
+      "michel guénard",
+      "pierre maheu",
+      "gaston miron",
+      "patrick straram",
+      "jacques trudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "milishka ryerson",
+      "thérèse major"
+    ],
+    "publisher": "la coopérative d'éditions parti pris",
+    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+  },
+  "toc": [
+    {
+      "section": "Éditorial",
+      "title": "individu, situation et morale",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "Article",
+      "title": "l'ambiguïté du peuple",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "Article",
+      "title": "la théorie socio-économique du crédit social",
+      "authors": [
+        "michel mill"
+      ],
+      "page": "15"
+    },
+    {
+      "section": "Article",
+      "title": "marxisme et créditisme",
+      "authors": [
+        "georges kostakeff"
+      ],
+      "page": "33"
+    },
+    {
+      "section": "Article",
+      "title": "méthodes et structures des bérets blancs",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "chroniques",
+      "title": "à joual sur... une ou deux langues",
+      "authors": [
+        "jan depocas"
+      ],
+      "page": "57"
+    },
+    {
+      "section": "chroniques",
+      "title": "le rapport bélanger",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "61"
+    },
+    {
+      "section": "chroniques",
+      "title": "pour situer \"les choses\"",
+      "authors": [
+        "michel euvrard"
+      ],
+      "page": "63"
+    },
+    {
+      "section": "chroniques",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "67"
+    },
+    {
+      "section": "Marginales",
+      "title": "marginales",
+      "authors": [],
+      "page": "72"
+    }
+  ]
+}

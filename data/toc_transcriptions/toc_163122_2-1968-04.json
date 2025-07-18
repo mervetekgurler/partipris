@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "issue_number": "7",
+    "season_or_month": "avril",
+    "year": "1968",
+    "director": "philippe bernard",
+    "description": "revue politique et culturelle paraît tous les mois sur 60 pages",
+    "price": "75¢",
+    "editors": [
+      "gilles bourque",
+      "jan depocas",
+      "gilles dostaler",
+      "thérèse dumouchel",
+      "gabriel gagnon",
+      "pierre maheu",
+      "luc racine",
+      "robert tremblay"
+    ],
+    "collaborators": [
+      "jacques allard",
+      "denis arcand",
+      "rené beaudin",
+      "jacques brault",
+      "andré brochu",
+      "paul chamberland",
+      "pierre desrosiers",
+      "raoul duguay",
+      "jacques ferron",
+      "charles gagnon",
+      "roger guy",
+      "robert maheu",
+      "gaston miron",
+      "michel pichette",
+      "jean-marc piotte",
+      "narcisso pizarro",
+      "jacques poisson",
+      "jean-robert rémillard",
+      "pierre renaud",
+      "patrick straram",
+      "andré théberge",
+      "gaétan tremblay",
+      "pierre vadebon seur",
+      "pieri vallières"
+    ],
+    "administration": [
+      "jean-claude robert",
+      "huguette corbo",
+      "marc laliberté",
+      "jacques des rosiers",
+      "rené bonenfant"
+    ],
+    "publisher": "Parti Pris",
+    "distributor": "agence de distribution populaire"
+  },
+  "toc": [
+    {
+      "section": "éditorial",
+      "title": "éditorial",
+      "authors": [],
+      "page": "3"
+    },
+    {
+      "section": "",
+      "title": "sur Pierre-E. Trudeau",
+      "authors": [],
+      "page": "7"
+    },
+    {
+      "section": "Québec politique",
+      "title": "Québec politiqua",
+      "authors": [
+        "gilles bourque"
+      ],
+      "page": "10"
+    },
+    {
+      "section": "Québec politique",
+      "title": "Québec politiqua",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "11"
+    },
+    {
+      "section": "québec syndical",
+      "title": "québec syndical",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "13"
+    },
+    {
+      "section": "politique internationale",
+      "title": "politique internationale",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "14"
+    },
+    {
+      "section": "reportage",
+      "title": "Reportage",
+      "authors": [
+        "pierre renaud",
+        "robert tremblay"
+      ],
+      "page": "17"
+    },
+    {
+      "section": "",
+      "title": "Hasta la victoria siempre !",
+      "authors": [
+        "roger soulière"
+      ],
+      "page": "27"
+    },
+    {
+      "section": "",
+      "title": "Trois lettres à la découverte du Québec",
+      "authors": [
+        "pierre baerel"
+      ],
+      "page": "39"
+    },
+    {
+      "section": "",
+      "title": "Phrase I de Serge Garant",
+      "authors": [
+        "Serge Garant"
+      ],
+      "page": "47"
+    },
+    {
+      "section": "",
+      "title": "le québec en mots dit",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "50"
+    },
+    {
+      "section": "arts artistiques",
+      "title": "arts artistiques",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "51"
+    },
+    {
+      "section": "critique parallèle",
+      "title": "critique parallèle II",
+      "authors": [
+        "andé théberge"
+      ],
+      "page": "53"
+    },
+    {
+      "section": "",
+      "title": "d'exil fragment",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "56"
+    }
+  ]
+}

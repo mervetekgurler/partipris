@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "issue_number": "3-4",
+    "season_or_month": "nov.-déc.",
+    "year": "1966",
+    "director": "",
+    "description": "revue politique et culturelle, paraît tous les deux mois sur 112 pages ou plus",
+    "price": "$1.00",
+    "editors": [
+      "gabriel gagnon",
+      "luc racine",
+      "gaëtan tremblay"
+    ],
+    "collaborators": [
+      "philippe bernard",
+      "paul chamberland",
+      "jan depocas",
+      "raoul duguay",
+      "pierre maheu",
+      "gaston miron",
+      "jean-marc piotte"
+    ],
+    "administration": [
+      "michel rivet",
+      "patrick straram"
+    ],
+    "publisher": "parti pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière Est Tél.: 523-1182"
+  },
+  "toc": [
+    {
+      "section": "éditoriaux",
+      "title": "le f.l.q. et nous",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "2"
+    },
+    {
+      "section": "éditoriaux",
+      "title": "vraie ou fausse indépendance",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "8"
+    },
+    {
+      "section": "bilan du cléricalisme",
+      "title": "luc racine",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "13"
+    },
+    {
+      "section": "bilan du cléricalisme",
+      "title": "pierre maheu",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "25-35"
+    },
+    {
+      "section": "bilan du cléricalisme",
+      "title": "gaëtan tremblay",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "57"
+    },
+    {
+      "section": "bilan du cléricalisme",
+      "title": "le f.l.q. et nous lettre de valères et gagnon",
+      "authors": [
+        "valères",
+        "gagnon"
+      ],
+      "page": "88"
+    },
+    {
+      "section": "bilan du cléricalisme",
+      "title": "de paris, un texte de michel bernard sur hubert aquin",
+      "authors": [
+        "michel bernard"
+      ],
+      "page": "78"
+    },
+    {
+      "section": "chroniques",
+      "title": "le québec politique et syndical, I et II",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "93-98"
+    },
+    {
+      "section": "chroniques",
+      "title": "colonialisme quotidien p.p.",
+      "authors": [
+        "p.p."
+      ],
+      "page": "101"
+    },
+    {
+      "section": "chroniques",
+      "title": "politique internationale",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "103"
+    },
+    {
+      "section": "chroniques",
+      "title": "la laïcité",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "107"
+    },
+    {
+      "section": "chroniques",
+      "title": "les essais",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "109"
+    },
+    {
+      "section": "chroniques",
+      "title": "littérature québécoise",
+      "authors": [
+        "raoul duguay"
+      ],
+      "page": "114"
+    },
+    {
+      "section": "chroniques",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "121"
+    },
+    {
+      "section": "chroniques",
+      "title": "marginales",
+      "authors": [],
+      "page": "128"
+    }
+  ]
+}

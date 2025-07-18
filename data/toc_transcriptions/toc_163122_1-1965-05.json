@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "issue_number": "9",
+    "season_or_month": "mai",
+    "year": "1965",
+    "director": "Comité de direction",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "50 cents",
+    "editors": [
+      "paul chamberland",
+      "Jan depocas",
+      "pierre maheu"
+    ],
+    "collaborators": [],
+    "administration": [
+      "lise théberge",
+      "j.-m. piotte",
+      "thérèse major",
+      "andré brochu",
+      "rené beaudin",
+      "l. girouard",
+      "claire e. depocas"
+    ],
+    "publisher": "Parti Pris",
+    "distributor": "Agence de distribution populaire"
+  },
+  "toc": [
+    {
+      "section": "Présentation",
+      "title": "présentation",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "Notes historiques",
+      "title": "notes historiques",
+      "authors": [
+        "michael draper"
+      ],
+      "page": "3"
+    },
+    {
+      "section": "Notes sur l'économie de la région de Québec métropolitain",
+      "title": "notes sur l'économie de la région de québec métropolitain",
+      "authors": [
+        "madeleine richer"
+      ],
+      "page": "11"
+    },
+    {
+      "section": "Le visage d'une cité",
+      "title": "le visage d'une cité",
+      "authors": [
+        "michael draper"
+      ],
+      "page": "14"
+    },
+    {
+      "section": "Québec chez Harvey et Lemelin",
+      "title": "québec chez harvey et lemelin",
+      "authors": [
+        "luc dufresne"
+      ],
+      "page": "31"
+    },
+    {
+      "section": "“Moé, j'voudrais ben que ça change un peu”",
+      "title": "\"moé, j'voudrais ben que ça change un peu\"",
+      "authors": [],
+      "page": "37"
+    },
+    {
+      "section": "EXPOSÉS",
+      "title": "le r.i.n. contre le r.i.n.",
+      "authors": [
+        "parti-pris"
+      ],
+      "page": "39"
+    },
+    {
+      "section": "EXPOSÉS",
+      "title": "la stratégie de parti-pris",
+      "authors": [
+        "rené beaudin"
+      ],
+      "page": "46"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "formation de la coopérative d'éditions parti-pris",
+      "authors": [],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "algérie, an III",
+      "authors": [],
+      "page": "58"
+    }
+  ]
+}

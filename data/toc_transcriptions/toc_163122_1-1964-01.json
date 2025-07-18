@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "issue_number": "4",
+    "season_or_month": "janvier",
+    "year": "1964",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "Prix 50 cents, 12 numéros: $5.00",
+    "editors": [
+      "André Brochu",
+      "Paul Chamberland",
+      "Pierre Maheu",
+      "André Major",
+      "Jean-Marc Piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Yvon Dionne",
+      "Laurent Girouard",
+      "Camille Limoges",
+      "Pierre Maheu",
+      "Robert Maheu",
+      "Gérald McKenzie",
+      "Lise Théberge"
+    ],
+    "publisher": "La Revue PARTI PRIS, inc.",
+    "distributor": "Agence de Distribution Populaire"
+  },
+  "toc": [
+    {
+      "section": "EDITORIAL",
+      "title": "lettre au lecteur",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "EDITORIAL",
+      "title": "le laïcisme au Canada français",
+      "authors": [
+        "yvon dionne"
+      ],
+      "page": "4"
+    },
+    {
+      "section": "EDITORIAL",
+      "title": "profession: écrivain",
+      "authors": [
+        "hubert aquin"
+      ],
+      "page": "23"
+    },
+    {
+      "section": "CONTES",
+      "title": "gilles vigneault",
+      "authors": [
+        "gilles vigneault"
+      ],
+      "page": "32"
+    },
+    {
+      "section": "CONTES",
+      "title": "nina bruneau",
+      "authors": [
+        "nina bruneau"
+      ],
+      "page": "36"
+    },
+    {
+      "section": "POEMES",
+      "title": "luc racine",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "42"
+    },
+    {
+      "section": "POEMES",
+      "title": "michel van schendel",
+      "authors": [
+        "michel van schendel"
+      ],
+      "page": "48"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "I camille limoges",
+      "authors": [
+        "camille limoges"
+      ],
+      "page": "53"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "II jacques brault",
+      "authors": [
+        "jacques brault"
+      ],
+      "page": "54"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les cercles du mal",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "ce bordel de pays (2)",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "vulgarités",
+      "authors": [],
+      "page": "64"
+    }
+  ]
+}

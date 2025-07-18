@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "issue_number": "Vol. 2, no 7",
+    "season_or_month": "mars",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et cultureile paraît chaque mois sur 64 pages ou plus",
+    "price": "50 cents",
+    "editors": [
+      "paul chamberland",
+      "jan depocas",
+      "pierre maheu",
+      "andré brochu"
+    ],
+    "collaborators": [
+      "rené beaudin",
+      "claire e. depocas",
+      "l. girouard"
+    ],
+    "administration": [
+      "lise théberge",
+      "j.-m. piotte",
+      "thérèse major",
+      "robert maheu"
+    ],
+    "publisher": "parti pris",
+    "distributor": "Agence de distribution populaire, 1130 est, rue Lagauchetière, Montréal. Tél.: 523-1182; dépositaire en France: \"la joie de lire\", 40, rue Saint-Séverin Paris 5e."
+  },
+  "toc": [
+    {
+      "section": "L'ENSEIGNEMENT ET LES ENSEIGNANTS",
+      "title": "le rapport parent",
+      "authors": [
+        "éditorial"
+      ],
+      "page": "2"
+    },
+    {
+      "section": "L'ENSEIGNEMENT ET LES ENSEIGNANTS",
+      "title": "pour une philosophie québécoise",
+      "authors": [
+        "jacques brault"
+      ],
+      "page": "9"
+    },
+    {
+      "section": "L'ENSEIGNEMENT ET LES ENSEIGNANTS",
+      "title": "quelques chiffres sur la fédération des collèges classiques",
+      "authors": [
+        "laurent girouard"
+      ],
+      "page": "17"
+    },
+    {
+      "section": "L'ENSEIGNEMENT ET LES ENSEIGNANTS",
+      "title": "le collège saint-denis, reflet de l'éducation au québec",
+      "authors": [
+        "parti pris"
+      ],
+      "page": "21"
+    },
+    {
+      "section": "L'ENSEIGNEMENT ET LES ENSEIGNANTS",
+      "title": "le syndicalisme des enseignants",
+      "authors": [
+        "claude girouard"
+      ],
+      "page": "28"
+    },
+    {
+      "section": "L'ENSEIGNEMENT ET LES ENSEIGNANTS",
+      "title": "les professeurs laïcs et le cours classique",
+      "authors": [
+        "gilles thérien"
+      ],
+      "page": "39"
+    },
+    {
+      "section": "EXPOSÉ",
+      "title": "une cause célèbre l'Angola",
+      "authors": [
+        "parti pris"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "pas de révolution par procuration",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "indépendances, au pluriel",
+      "authors": [
+        "georges balandier"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le joual politique",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "57"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "d'un amour inquiétant",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "60"
+    }
+  ]
+}

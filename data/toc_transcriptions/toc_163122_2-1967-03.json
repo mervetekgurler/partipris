@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "issue_number": "7-8",
+    "season_or_month": "mars - avril",
+    "year": "1967",
+    "director": "",
+    "description": "revue politique et culturelle, paraît tous les deux mois sur 112 pages ou plus",
+    "price": "le numéro: $1.00, 6 numéros: $6.00",
+    "editors": [
+      "gabriel gagnon",
+      "luc racine",
+      "gaëtan tremblay"
+    ],
+    "collaborators": [
+      "philippe bernard",
+      "paul chamberland",
+      "jan depocas",
+      "raoul duguay",
+      "pierre maheu",
+      "gaston miron",
+      "jean-marc piotte"
+    ],
+    "administration": [
+      "c.p. 149, station \"N\" montréal 18, québec"
+    ],
+    "publisher": "Parti Pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière Est Tél.: 523-1182"
+  },
+  "toc": [
+    {
+      "section": "éditorial",
+      "title": "éditorial",
+      "authors": [],
+      "page": ""
+    },
+    {
+      "section": "éditorial",
+      "title": "le bill 25 et l'action intersyndicale",
+      "authors": [
+        "p.p.",
+        "l.r."
+      ],
+      "page": "2"
+    },
+    {
+      "section": "éditorial",
+      "title": "organisation syndicale, néo-capitalisme et planification",
+      "authors": [
+        "g.b.",
+        "m.p.",
+        "n.p.",
+        "l.r."
+      ],
+      "page": "5"
+    },
+    {
+      "section": "",
+      "title": "bilan du syndicalisme agricole",
+      "authors": [
+        "jean-louis chabot"
+      ],
+      "page": "28"
+    },
+    {
+      "section": "",
+      "title": "syndicalisme étudiant: de l'a.g.e.u.m. à l'u.g.e.q.",
+      "authors": [
+        "ronald sabourin"
+      ],
+      "page": "36"
+    },
+    {
+      "section": "",
+      "title": "l'ouvrier du pétrole",
+      "authors": [
+        "nicole gagnon"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "",
+      "title": "les voies de l'autogestion",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "56"
+    },
+    {
+      "section": "document",
+      "title": "lettre à jean marchand, prime minister",
+      "authors": [
+        "pierre desrosiers"
+      ],
+      "page": "73"
+    },
+    {
+      "section": "chroniques",
+      "title": "le québec politique",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "78"
+    },
+    {
+      "section": "chroniques",
+      "title": "le québec syndical",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "84"
+    },
+    {
+      "section": "chroniques",
+      "title": "politique internationale",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "86"
+    },
+    {
+      "section": "chroniques",
+      "title": "colonialisme quotidien",
+      "authors": [
+        "p.p."
+      ],
+      "page": "88"
+    },
+    {
+      "section": "chroniques",
+      "title": "les essais",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "90"
+    },
+    {
+      "section": "chroniques",
+      "title": "littérature québécoise",
+      "authors": [
+        "raoul duguay"
+      ],
+      "page": "93"
+    },
+    {
+      "section": "chroniques",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "96"
+    },
+    {
+      "section": "",
+      "title": "marginales",
+      "authors": [],
+      "page": "107"
+    }
+  ]
+}

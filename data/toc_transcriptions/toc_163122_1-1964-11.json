@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "issue_number": "3",
+    "season_or_month": "novembre",
+    "year": "1964",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents / 12 numéros: $5.00",
+    "editors": [
+      "paul chamberland",
+      "pierre maheu"
+    ],
+    "collaborators": [
+      "camille limoges"
+    ],
+    "administration": [
+      "lise théberge",
+      "thérèse major",
+      "rené beaudin",
+      "robert maheu"
+    ],
+    "publisher": "éditions parti pris",
+    "distributor": "Agence de distribution populaire"
+  },
+  "toc": [
+    {
+      "section": "Articles",
+      "title": "le samedi de la matraque éditorial",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "Articles",
+      "title": "un appui critique à la néo-bourgeoisie",
+      "authors": [
+        "jean-marc piotte"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "Articles",
+      "title": "perspectives d'action",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "10"
+    },
+    {
+      "section": "Articles",
+      "title": "la haine",
+      "authors": [
+        "jacques godbout"
+      ],
+      "page": "16"
+    },
+    {
+      "section": "Articles",
+      "title": "notre premier parti socialiste",
+      "authors": [
+        "yvon dionne"
+      ],
+      "page": "23"
+    },
+    {
+      "section": "Articles",
+      "title": "un chien blanchi",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "34"
+    },
+    {
+      "section": "Articles",
+      "title": "la semaine dernière pas loin du pont",
+      "authors": [
+        "andré major"
+      ],
+      "page": "37"
+    },
+    {
+      "section": "Articles",
+      "title": "poèmes",
+      "authors": [
+        "jacques renaud"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le choc d'une révolte syndicale",
+      "authors": [
+        "pierre vadeboncoeur"
+      ],
+      "page": "50"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique des bourgeois",
+      "authors": [
+        "robert maheu"
+      ],
+      "page": "54"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les anglais nous pleuvent dessus",
+      "authors": [
+        "alain bouchard"
+      ],
+      "page": "56"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "our man in \"le devoir\"",
+      "authors": [
+        "pierre lefebvre"
+      ],
+      "page": "58"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "issue_number": "1-2",
+    "season_or_month": "août-septembre",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "50 cents, 12 numéros: $5.00",
+    "editors": [
+      "andrée benoist",
+      "jan depocas",
+      "michel guénard",
+      "pierre maheu",
+      "gaston miron",
+      "jacques trudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "thérèse major",
+      "claire-emmanuèle depocas"
+    ],
+    "publisher": "La cooprérative d'éditions Parti Pris",
+    "distributor": "Agence de distribution Populaire"
+  },
+  "toc": [
+    {
+      "section": "",
+      "title": "manifeste 1965-66",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "",
+      "title": "les classes sociales au québec",
+      "authors": [
+        "mario dumais"
+      ],
+      "page": "42"
+    },
+    {
+      "section": "",
+      "title": "où allons-nous",
+      "authors": [
+        "jean-marc piotte"
+      ],
+      "page": "64"
+    },
+    {
+      "section": "",
+      "title": "où sont les bombes d'antan",
+      "authors": [
+        "andrée bertrand-ferretti"
+      ],
+      "page": "86"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le vietnam, los angeles et la révolution mondiale",
+      "authors": [
+        "jacques trudel"
+      ],
+      "page": "93"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les éditions parti pris",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "95"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le m.l.p. doit s'éteridre",
+      "authors": [
+        "mario dumais",
+        "robert tremblay"
+      ],
+      "page": "97"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "nouvelles du m.l.p.",
+      "authors": [],
+      "page": "100"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "appel aux non-instruits",
+      "authors": [
+        "léandre bergeron"
+      ],
+      "page": "101"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les grèves de l'été, un tournant?",
+      "authors": [
+        "pierre vallières"
+      ],
+      "page": "103"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le festival du film",
+      "authors": [
+        "pierre hébert"
+      ],
+      "page": "104"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "pour un appel à la discipline",
+      "authors": [
+        "enmmanuel garon"
+      ],
+      "page": "105"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le traité d'économie marxiste de mandel",
+      "authors": [
+        "jean-marc piotte"
+      ],
+      "page": "108"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "i, ni, mi, ni, mai, ni, mo",
+      "authors": [
+        "jacques allard"
+      ],
+      "page": "110"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les idées quelconques du frère untel",
+      "authors": [
+        "charles gagnon"
+      ],
+      "page": "114"
+    }
+  ]
+}

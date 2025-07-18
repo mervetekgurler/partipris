@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "issue_number": "10-11",
+    "season_or_month": "juin-juillet",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "50 cents",
+    "editors": [
+      "paul chamberland",
+      "jan depocas",
+      "pierre maheu",
+      "gaston miron"
+    ],
+    "collaborators": [
+      "René Beaudin (documentation)",
+      "André Brochu (correction des textes)",
+      "Claire E. Depocas (mise en page)"
+    ],
+    "administration": [
+      "Lise Théberge (abonnements)",
+      "J.-M. Plotte (club parti pris)",
+      "Thérèse Major (comptabilité)"
+    ],
+    "publisher": "éditions parti pris",
+    "distributor": "Agence de distribution populaire; la joie de lire"
+  },
+  "toc": [
+    {
+      "section": "sommaire",
+      "title": "jean lesage et l'état-béquille éditorial",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "sommaire",
+      "title": "la manifestation du 24 mai déclaration",
+      "authors": [],
+      "page": "5"
+    },
+    {
+      "section": "sommaire",
+      "title": "un pays à mettre au monde",
+      "authors": [
+        "jacques brault"
+      ],
+      "page": "9"
+    },
+    {
+      "section": "sommaire",
+      "title": "remarque sur le bon usage de la spécificité nationale",
+      "authors": [
+        "marcel rioux"
+      ],
+      "page": "26"
+    },
+    {
+      "section": "sommaire",
+      "title": "un excellent prétexte",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "32"
+    },
+    {
+      "section": "sommaire",
+      "title": "dépaysement",
+      "authors": [
+        "jean-pascal benoist"
+      ],
+      "page": "44"
+    },
+    {
+      "section": "sommaire",
+      "title": "nationalité? domicile?",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "sommaire",
+      "title": "aventuriers ou responsables, exposé",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "80"
+    },
+    {
+      "section": "sommaire",
+      "title": "le non-poème et le poème",
+      "authors": [
+        "gaston miron"
+      ],
+      "page": "88"
+    },
+    {
+      "section": "sommaire",
+      "title": "la crotte au nez, extrait de roman",
+      "authors": [
+        "laurent girouard"
+      ],
+      "page": "98"
+    },
+    {
+      "section": "chroniques",
+      "title": "pour l'union de la gauche",
+      "authors": [
+        "pierre vallières"
+      ],
+      "page": "102"
+    },
+    {
+      "section": "chroniques",
+      "title": "abbot et costello et le fédéralisme",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "104"
+    },
+    {
+      "section": "chroniques",
+      "title": "la fulton-favreau et ses pèdleurs",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "106"
+    },
+    {
+      "section": "chroniques",
+      "title": "des miracles au dominion",
+      "authors": [
+        "jacques godbout"
+      ],
+      "page": "107"
+    },
+    {
+      "section": "chroniques",
+      "title": "la liberté d'expression: pour qui?",
+      "authors": [],
+      "page": "110"
+    },
+    {
+      "section": "chroniques",
+      "title": "vulgaire correspondance",
+      "authors": [],
+      "page": "113"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "issue_number": "4",
+    "season_or_month": "sept.-oct.",
+    "year": "1966",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 112 pages",
+    "price": "$1.00",
+    "editors": [
+      "gabriel gagnon",
+      "luc racine",
+      "gaëtan tremblay",
+      "paul chamberland",
+      "jan depocas",
+      "raoul duguay",
+      "pierre maheu",
+      "gaston miron",
+      "jean-marc piotte",
+      "patrick straram"
+    ],
+    "collaborators": [
+      "michel rivest"
+    ],
+    "administration": [
+      "C.P. 149, station \"N\" Montréal 18, Québec"
+    ],
+    "publisher": "la coopérative d'éditions parti pris",
+    "distributor": "Agence de distribution populaire 1130 Lagauchetière Est Tél.: 523-1182"
+  },
+  "toc": [
+    {
+      "section": "",
+      "title": "exigences théoriques d'un combat politique",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "2"
+    },
+    {
+      "section": "",
+      "title": "viêt-nam, usa, québec",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "11"
+    },
+    {
+      "section": "",
+      "title": "le peuple contre le peuple",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "19"
+    },
+    {
+      "section": "",
+      "title": "sens et limites du néo-nationalisme",
+      "authors": [
+        "jean-marc piotte"
+      ],
+      "page": "24"
+    },
+    {
+      "section": "",
+      "title": "pour un socialisme décolonisateur",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "40"
+    },
+    {
+      "section": "",
+      "title": "laïcité 1966",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "56"
+    },
+    {
+      "section": "",
+      "title": "les bronches à l'air pur",
+      "authors": [
+        "jacques renaud"
+      ],
+      "page": "78"
+    },
+    {
+      "section": "chroniques",
+      "title": "le québec politique et syndical",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "81"
+    },
+    {
+      "section": "chroniques",
+      "title": "ce bordel de pays",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "83"
+    },
+    {
+      "section": "chroniques",
+      "title": "le colonialisme quotidien",
+      "authors": [
+        "p.p."
+      ],
+      "page": "85"
+    },
+    {
+      "section": "les essais",
+      "title": "luc racine",
+      "authors": [],
+      "page": "88"
+    },
+    {
+      "section": "",
+      "title": "littérature québecoise",
+      "authors": [],
+      "page": "94"
+    },
+    {
+      "section": "",
+      "title": "au québec: le parti unique",
+      "authors": [
+        "raoul duguay"
+      ],
+      "page": "101"
+    },
+    {
+      "section": "",
+      "title": "marginales",
+      "authors": [],
+      "page": "105"
+    }
+  ]
+}

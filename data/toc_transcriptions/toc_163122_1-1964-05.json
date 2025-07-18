@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "issue_number": "8",
+    "season_or_month": "mai",
+    "year": "1964",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents (12 numéros: $5.00)",
+    "editors": [
+      "Paul Chamberland",
+      "Laurent Girouard",
+      "Pierre Maheu",
+      "André Major",
+      "Jean-Marc Piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Yvon Dionne",
+      "Camille Limoges",
+      "Pierre Maheu",
+      "Robert Maheu",
+      "Gérald McKenzie"
+    ],
+    "publisher": "La Revue PARTI PRIS, Inc. 790-B, av. Champagneur, Montréal (8) Québec.",
+    "distributor": "Agence de Distribution Populaire, 1130 est, rue Lagauchetière Montréal. Tél. LA 3-1182"
+  },
+  "toc": [
+    {
+      "section": "VERS UNE REFORME AGRAIRE",
+      "title": "la révolution, c'est le peuple",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "VERS UNE REFORME AGRAIRE",
+      "title": "notes sur le milieu rural",
+      "authors": [
+        "Jean-Marc Piotte"
+      ],
+      "page": "11"
+    },
+    {
+      "section": "VERS UNE REFORME AGRAIRE",
+      "title": "Jean-Baptiste Alarie, les cochons et la révolution",
+      "authors": [
+        "Jean-Robert Rémillard"
+      ],
+      "page": "26"
+    },
+    {
+      "section": "VERS UNE REFORME AGRAIRE",
+      "title": "le problème de la colonisation",
+      "authors": [
+        "Jean-Claude Lapointe"
+      ],
+      "page": "35"
+    },
+    {
+      "section": "VERS UNE REFORME AGRAIRE",
+      "title": "la \"petite russie\"",
+      "authors": [
+        "Roger Guy"
+      ],
+      "page": "38"
+    },
+    {
+      "section": "VERS UNE REFORME AGRAIRE",
+      "title": "j'en arrache pas - poème",
+      "authors": [
+        "André Major"
+      ],
+      "page": "46"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "l'a.g.e.u.m.",
+      "authors": [
+        "Robert Mackay"
+      ],
+      "page": "49"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les belles âmes",
+      "authors": [
+        "Camille Limoges"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "lettre du brésil",
+      "authors": [],
+      "page": "54"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "pour une littérature révolutionnaire",
+      "authors": [
+        "André Major"
+      ],
+      "page": "56"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "blues pour un homme averti",
+      "authors": [
+        "Laurent Girouard"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "à propos de la ville inhumaine",
+      "authors": [
+        "Pierre Maheu"
+      ],
+      "page": "59"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "à bas les papas (vulgarité)",
+      "authors": [
+        "Serge Grenier"
+      ],
+      "page": "62"
+    }
+  ]
+}

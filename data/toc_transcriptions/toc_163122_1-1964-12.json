@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "issue_number": "vol. 2, no 4",
+    "season_or_month": "décembre",
+    "year": "1964",
+    "director": "Paul Chamberland, Pierre Maheu",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents",
+    "editors": [
+      "Paul Chamberland",
+      "Pierre Maheu"
+    ],
+    "collaborators": [
+      "André Brochu",
+      "René Beaudin",
+      "Camille Limoges"
+    ],
+    "administration": [
+      "Lise Théberge",
+      "J.-M. Piottte",
+      "Thérèse Major",
+      "Robert Maheu"
+    ],
+    "publisher": "éditions parti pris",
+    "distributor": "Agence de distribution populaire, La Joie de Lire"
+  },
+  "toc": [
+    {
+      "section": "Éditorial",
+      "title": "pas une goutte de sang...",
+      "authors": [
+        "L'Équipe d'édition"
+      ],
+      "page": "2"
+    },
+    {
+      "section": "MONTRÉAL",
+      "title": "en guise d'introduction",
+      "authors": [
+        "Pierre Maheu"
+      ],
+      "page": "10"
+    },
+    {
+      "section": "MONTRÉAL",
+      "title": "notre environnement urbain",
+      "authors": [
+        "Jacques Trudel"
+      ],
+      "page": "21"
+    },
+    {
+      "section": "MONTRÉAL",
+      "title": "politique et annexions",
+      "authors": [
+        "Pierre Prézeau"
+      ],
+      "page": "33"
+    },
+    {
+      "section": "MONTRÉAL",
+      "title": "les capitalistes",
+      "authors": [
+        "Reggie Chartrand"
+      ],
+      "page": "46"
+    },
+    {
+      "section": "MONTRÉAL",
+      "title": "un déménagement",
+      "authors": [
+        "André Major"
+      ],
+      "page": "48"
+    },
+    {
+      "section": "Poésie",
+      "title": "l'afficheur hurle — poème",
+      "authors": [
+        "Paul Chamberland"
+      ],
+      "page": "51"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "un manuel du militant québécois",
+      "authors": [
+        "Jean-Pierre Trempe"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "réflexions critiques sur la visite de la reine",
+      "authors": [
+        "Club Parti Pris"
+      ],
+      "page": "56"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les \"boeufs\" recrutent pour le r.i.n.",
+      "authors": [
+        "Jacques Ferron"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le supplément littéraire du devoir",
+      "authors": [
+        "Laurent Girouard"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "en lisant \"le cassé\"",
+      "authors": [
+        "Laurent Girouard"
+      ],
+      "page": "62"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les joes de l'arène",
+      "authors": [
+        "Gérald Godin"
+      ],
+      "page": "64"
+    }
+  ]
+}

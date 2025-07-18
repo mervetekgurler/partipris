@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "issue_number": "vol. 3, nos 1-2",
+    "season_or_month": "octobre-novembre",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "Le numéro: 50 cents 12 numéros: $5.00",
+    "editors": [
+      "jan depocas",
+      "michel guénard",
+      "pierre maheu",
+      "gaston miron",
+      "jacques trudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "thérèse major"
+    ],
+    "publisher": "La coopération d'éditions Parti Pris",
+    "distributor": "Montréal: distributions Laval Ltée 290 Boulevard Pie IX Québec: Agence Provinciale (Québec) inc. 226 est, Christophe Colomb Hull: Lib. Libre 130 rue de l'Hôtel de Ville."
+  },
+  "toc": [
+    {
+      "section": "sommaire",
+      "title": "saint wagner.",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "sommaire",
+      "title": "la mission de M. wagner.",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "4"
+    },
+    {
+      "section": "sommaire",
+      "title": "la protection de l'état.",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "sommaire",
+      "title": "le fait criminel dans la société capitaliste.",
+      "authors": [
+        "michel guénard"
+      ],
+      "page": "16"
+    },
+    {
+      "section": "sommaire",
+      "title": "le dossier schirm-guénette.",
+      "authors": [
+        "andrée benoist"
+      ],
+      "page": "32"
+    },
+    {
+      "section": "sommaire",
+      "title": "de l'importance de l'action idéologique.",
+      "authors": [
+        "pierre vadboncoeur"
+      ],
+      "page": "42"
+    },
+    {
+      "section": "sommaire",
+      "title": "les syndicats devant les tribunaux",
+      "authors": [
+        "germain canuel"
+      ],
+      "page": "45"
+    },
+    {
+      "section": "sommaire",
+      "title": "divorce à la chinoise.",
+      "authors": [
+        "bernard s. mergler"
+      ],
+      "page": "51"
+    },
+    {
+      "section": "exposé",
+      "title": "sur la théorie de gorz",
+      "authors": [
+        "michel mill"
+      ],
+      "page": "62"
+    },
+    {
+      "section": "chroniques",
+      "title": "chroniques",
+      "authors": [],
+      "page": "71"
+    },
+    {
+      "section": "marginales.",
+      "title": "marginales.",
+      "authors": [],
+      "page": "94"
+    }
+  ]
+}

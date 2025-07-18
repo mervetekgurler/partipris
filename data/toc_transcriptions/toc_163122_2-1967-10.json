@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "issue_number": "5 (2-3)",
+    "season_or_month": "octobre-novembre",
+    "year": "1967",
+    "director": "philippe bernard",
+    "description": "revue politique et culturelle, paraît tous les mois sur 60 pages",
+    "price": "75¢ (single issue), $6.00 (annual subscription)",
+    "editors": [
+      "gilles bourque",
+      "gilles dostaler",
+      "thérèse dumouchel",
+      "gabriel gagnon",
+      "pierre maheu",
+      "luc racine",
+      "patrick straram",
+      "robert tremblay"
+    ],
+    "collaborators": [
+      "jacques allard",
+      "denis arcand",
+      "rené beaudin",
+      "jacques brault",
+      "andré brochu",
+      "paul chamberland",
+      "jan depocas",
+      "pierre desrosiers",
+      "raoul duguay",
+      "jacques ferron",
+      "charles gagnon",
+      "roger guy",
+      "robert maheu",
+      "gaston miron",
+      "michel pichette",
+      "jean-marc piotte",
+      "narcisso pizarro",
+      "jacques poisson",
+      "jean-robert rémillard",
+      "pierre renaud",
+      "gaétan tremblay",
+      "pierre vadeboncoeur",
+      "pierre vallières"
+    ],
+    "administration": [
+      "huguette corbo (secrétaire)",
+      "marc laliberté (trésorier)",
+      "jacques des rosiers (maquettiste)",
+      "rené bonenfant (maquettiste)"
+    ],
+    "publisher": "Parti Pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière est. Montréal"
+  },
+  "toc": [
+    {
+      "section": "",
+      "title": "éditorial",
+      "authors": [
+        "N/A"
+      ],
+      "page": "3"
+    },
+    {
+      "section": "",
+      "title": "entrevue avec René Lévesque",
+      "authors": [
+        "gilles dostaler"
+      ],
+      "page": "7"
+    },
+    {
+      "section": "",
+      "title": "le congrès de la F.L.Q. et la position Lévesque",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "13"
+    },
+    {
+      "section": "",
+      "title": "le congrès du R.I.N. ou l'échec à la droite",
+      "authors": [
+        "gilles bourque"
+      ],
+      "page": "21"
+    },
+    {
+      "section": "",
+      "title": "la F.T.Q., les pauvres et la politique",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "29"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "créer deux, trois . . . de nombreux Vietnam",
+      "authors": [
+        "N/A"
+      ],
+      "page": "37"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Québec politique",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "48"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Québec syndical",
+      "authors": [
+        "gabriel gagnon",
+        "gilles bourque"
+      ],
+      "page": "49"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Québec économique",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "53"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les arts artistiques",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "littérature québécoise",
+      "authors": [
+        "raoul duguay"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "interprétation de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "64"
+    }
+  ]
+}

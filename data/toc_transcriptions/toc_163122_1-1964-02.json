@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "issue_number": "5",
+    "season_or_month": "février",
+    "year": "1964",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents",
+    "editors": [
+      "André Brochu",
+      "Paul Chamberland",
+      "Pierre Maheu",
+      "André Major",
+      "Jean-Marc Piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Yvon Dionne",
+      "Laurent Girouard",
+      "Camille Limoges",
+      "Pierre Maheu",
+      "Robert Maheu",
+      "Gérald McKenzie",
+      "Lise Théberge"
+    ],
+    "publisher": "La Revue PARTI PRIS, inc.",
+    "distributor": "Agence de Distribution Populaire"
+  },
+  "toc": [
+    {
+      "section": "LE POUVOIR",
+      "title": "éditorial",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "LE POUVOIR",
+      "title": "les contradictions de la révolution tranquille",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "LE POUVOIR",
+      "title": "le corps mystique",
+      "authors": [
+        "hubert aquin"
+      ],
+      "page": "30"
+    },
+    {
+      "section": "NOUVELLES",
+      "title": "gérald godin",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "37"
+    },
+    {
+      "section": "NOUVELLES",
+      "title": "andré major",
+      "authors": [
+        "andré major"
+      ],
+      "page": "40"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique d'une révolution",
+      "authors": [],
+      "page": "43"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique du R.I.N.",
+      "authors": [],
+      "page": "47"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique de l'éducation",
+      "authors": [],
+      "page": "48"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les livres",
+      "authors": [],
+      "page": "50"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "ce bordel de pays",
+      "authors": [],
+      "page": "52"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les divertissements",
+      "authors": [],
+      "page": "53"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "l'information",
+      "authors": [],
+      "page": "59"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "crypto-vulgarités",
+      "authors": [],
+      "page": "61"
+    }
+  ]
+}

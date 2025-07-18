@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "issue_number": "3, no 9",
+    "season_or_month": "avril",
+    "year": "1966",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 80 pages",
+    "price": "60 cents (le numéro), $6.00 (12 numéros)",
+    "editors": [
+      "paul chamberland",
+      "jan depocas",
+      "gabriel gagnon",
+      "michel guénard",
+      "pierre mateu",
+      "gaston miron",
+      "patrick straram",
+      "jacques trudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "C.P. 149, station \"N\" Montréal 18, Québec"
+    ],
+    "publisher": "la coopérative d'éditions parti pris",
+    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+  },
+  "toc": [
+    {
+      "section": "Articles",
+      "title": "pour un parti des travailleurs québécois",
+      "authors": [
+        "éditorial"
+      ],
+      "page": "2"
+    },
+    {
+      "section": "Articles",
+      "title": "beatniks, vietniks, — québec-niks: gauchisme à gogo?",
+      "authors": [
+        "jan depocas"
+      ],
+      "page": "9"
+    },
+    {
+      "section": "Articles",
+      "title": "entretien avec claude gauvreau",
+      "authors": [
+        "jan depocas"
+      ],
+      "page": "14"
+    },
+    {
+      "section": "Articles",
+      "title": "beauté baroque",
+      "authors": [
+        "claude gauvreau"
+      ],
+      "page": "20"
+    },
+    {
+      "section": "Articles",
+      "title": "décombres",
+      "authors": [
+        "denis vanier"
+      ],
+      "page": "36"
+    },
+    {
+      "section": "Articles",
+      "title": "entretien avec claude péloquin",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "38"
+    },
+    {
+      "section": "Articles",
+      "title": "poèmes, manifestes",
+      "authors": [
+        "claude péloquin"
+      ],
+      "page": "46"
+    },
+    {
+      "section": "chroniques",
+      "title": "affaire radio-canada",
+      "authors": [
+        "michel guénard"
+      ],
+      "page": "57"
+    },
+    {
+      "section": "chroniques",
+      "title": "viva magill",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "chroniques",
+      "title": "la contestation morale",
+      "authors": [
+        "yvon hussereau"
+      ],
+      "page": "61"
+    },
+    {
+      "section": "chroniques",
+      "title": "\"beat\", battus et béats",
+      "authors": [
+        "michel euvrard"
+      ],
+      "page": "65"
+    },
+    {
+      "section": "chroniques",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "69"
+    },
+    {
+      "section": "marginales",
+      "title": "marginales",
+      "authors": [],
+      "page": "73"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "issue_number": "vol 3, nos 5",
+    "season_or_month": "décembre",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et culturelle parait chaque mois sur 64 pages ou plus.",
+    "price": "Le numéro: 50 cents 12 numéros: $5.00",
+    "editors": [
+      "jan depocas",
+      "michel guénard",
+      "pierre maheu",
+      "gaston miron",
+      "jacques trudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Rédaction et abonnements: 3774, rue Saint-Denis, Montréal 18, Québec. Tél. 844-7119"
+    ],
+    "publisher": "La coopération d'éditions Parti Pris",
+    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville."
+  },
+  "toc": [
+    {
+      "section": "Editorial",
+      "title": "la crise de l'ageum, révolution ou gauchisme?",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "",
+      "title": "l'individu révolutionnaire",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "",
+      "title": "notes pour une morale révolutionnaire",
+      "authors": [
+        "mario dumais"
+      ],
+      "page": "32"
+    },
+    {
+      "section": "poésie",
+      "title": "Textes poétiques",
+      "authors": [
+        "jan depocas"
+      ],
+      "page": "41"
+    },
+    {
+      "section": "exposé",
+      "title": "la réforme de la planification en u.r.s.s.",
+      "authors": [
+        "andré pollender"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "chroniques",
+      "title": "quand la démocratie et l'unité canadienne nous sont imposées à coups de poings",
+      "authors": [
+        "rené beaudin"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "chroniques",
+      "title": "des élections réjouissantes",
+      "authors": [
+        "jacques trudel"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "chroniques",
+      "title": "prochain épisode",
+      "authors": [
+        "jacques allard"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "chroniques",
+      "title": "interprétation de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "64"
+    },
+    {
+      "section": "chroniques",
+      "title": "les corps étrangers",
+      "authors": [
+        "michel euvrard"
+      ],
+      "page": "75"
+    },
+    {
+      "section": "marginales",
+      "title": "Marginales",
+      "authors": [],
+      "page": "80"
+    }
+  ]
+}

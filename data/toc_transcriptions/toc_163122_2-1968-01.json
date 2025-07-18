@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "issue_number": "5 no 4",
+    "season_or_month": "janvier",
+    "year": "1968",
+    "director": "philippe bernard",
+    "description": "revue politique et culturelle paraît tous les mois sur 60 pages",
+    "price": "75¢",
+    "editors": [
+      "gilles bourque",
+      "gilles dostaler",
+      "thérèse dumouchel",
+      "gabriel gagnon",
+      "pierre maheu",
+      "luc racine",
+      "patrick straram",
+      "robert tremblay"
+    ],
+    "collaborators": [
+      "jacques allard",
+      "denis arcand",
+      "rené beaudin",
+      "jacques brault",
+      "andré brochu",
+      "paul chamberland",
+      "jan depocas",
+      "pierre desrosiers",
+      "raoul duguay",
+      "jacques ferron",
+      "charles gagnon",
+      "roger guy",
+      "robert maheu",
+      "gaston miron",
+      "michel pichette",
+      "jean-marc piotte",
+      "narcisso pizarro",
+      "jacques poisson",
+      "jean-robert rémillard",
+      "pierre renaud",
+      "gaétan tremblay",
+      "pierre vadeboncoeur",
+      "pierre vallières"
+    ],
+    "administration": [
+      "jacques des rosiers",
+      "rené bonenfant",
+      "huguette corbo",
+      "marc laliberté"
+    ],
+    "publisher": "parti pris",
+    "distributor": "agence de distribution populaire"
+  },
+  "toc": [
+    {
+      "section": "",
+      "title": "éditorial",
+      "authors": [],
+      "page": "3"
+    },
+    {
+      "section": "",
+      "title": "Québec politique",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "9"
+    },
+    {
+      "section": "",
+      "title": "Québec syndical",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "11"
+    },
+    {
+      "section": "",
+      "title": "Québec économique",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "12"
+    },
+    {
+      "section": "",
+      "title": "politique internationale",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "14"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "situation révolutionnaire dans les républiques andines",
+      "authors": [
+        "gilles dostaler"
+      ],
+      "page": "17"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "les Etats-Unis: état militariste?",
+      "authors": [
+        "rené dal magro"
+      ],
+      "page": "29"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "la guerre américaine au Vietnam",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "35"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "le Québec en mots dit",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les zarts zartistiques",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "45"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "interprétation de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "50"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "extrait de \"en d'autres paysages\"",
+      "authors": [
+        "jacques renaud"
+      ],
+      "page": "54"
+    }
+  ]
+}

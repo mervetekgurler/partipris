@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "issue_number": "5",
+    "season_or_month": "février",
+    "year": "1968",
+    "director": "philippe bernard",
+    "description": "revue politique et culturelle, paraît tous les mois sur 60 pages",
+    "price": "75¢",
+    "editors": [
+      "gilles bourque",
+      "gilles dostaler",
+      "thérèse dumouchel",
+      "gabriel gagnon",
+      "pierre maheu",
+      "luc racine",
+      "robert tremblay"
+    ],
+    "collaborators": [
+      "jacques aliard",
+      "denis arcand",
+      "rené beaudin",
+      "jacques brault",
+      "andré brochu",
+      "paul chamberland",
+      "jan depocas",
+      "pierre desrosiers",
+      "raoul duguay",
+      "jacques ferron",
+      "charles gagnon",
+      "roger guy",
+      "robert maheu",
+      "gaston miron",
+      "michel pichette",
+      "jean-marc piotte",
+      "narcisso pizarro",
+      "jacques poisson",
+      "jean-robert rémillard",
+      "pierre renaud",
+      "gaétan tremblay",
+      "pierre vadeboncoeur",
+      "pierre vallières"
+    ],
+    "administration": [
+      "jacques des rosiers",
+      "rené bonenfant",
+      "huguette corbo",
+      "marc laliberté"
+    ],
+    "publisher": "Parti Pris",
+    "distributor": "agence de distribution populaire"
+  },
+  "toc": [
+    {
+      "section": "éditorial",
+      "title": "éditorial",
+      "authors": [],
+      "page": "3"
+    },
+    {
+      "section": "Québec politique",
+      "title": "Québec politique",
+      "authors": [
+        "gilles bourque"
+      ],
+      "page": "10"
+    },
+    {
+      "section": "Québec économique",
+      "title": "Québec économique",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "11"
+    },
+    {
+      "section": "politique internationale",
+      "title": "politique internationale",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "14"
+    },
+    {
+      "section": "",
+      "title": "un parti pour la gauche québécoise",
+      "authors": [
+        "françois bachand"
+      ],
+      "page": "16"
+    },
+    {
+      "section": "",
+      "title": "la CSN: structure et stratégie",
+      "authors": [
+        "gilles dostaler"
+      ],
+      "page": "19"
+    },
+    {
+      "section": "",
+      "title": "pourquoi la révolution",
+      "authors": [
+        "charles gagnon"
+      ],
+      "page": "27"
+    },
+    {
+      "section": "document",
+      "title": "discours de andrée ferreti",
+      "authors": [
+        "andrée ferreti"
+      ],
+      "page": "35"
+    },
+    {
+      "section": "reportage",
+      "title": "lachute 15 mois plus tard",
+      "authors": [
+        "robert tremblay",
+        "pierre renaud"
+      ],
+      "page": "41"
+    },
+    {
+      "section": "",
+      "title": "le québec en mots dit",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "48"
+    },
+    {
+      "section": "",
+      "title": "les arts artistiques",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "50"
+    },
+    {
+      "section": "",
+      "title": "levac . . . loranger . . .",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "53"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "issue_number": "Vol. 3, No 7",
+    "season_or_month": "février",
+    "year": "1966",
+    "director": "La Coopérative d'éditions Parti pris",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "60 cents (le numéro), $6.00 (12 numéros)",
+    "editors": [
+      "paul charnberland",
+      "jan depocas",
+      "michel guénard",
+      "pierre maheu",
+      "gaston miron",
+      "patrick straram",
+      "Jacques frudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Milishka Ryerson (abonnements)",
+      "Thérèse Malor (comptabilité)"
+    ],
+    "publisher": "La Coopérative d'éditions Parti pris",
+    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) Inc., 226 est. Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+  },
+  "toc": [
+    {
+      "section": "Éditorial",
+      "title": "une arme à deux tranchants",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "Article",
+      "title": "aspects politiques des systèmes électoraux",
+      "authors": [
+        "robert boily"
+      ],
+      "page": "8"
+    },
+    {
+      "section": "Article",
+      "title": "les machines électorales",
+      "authors": [
+        "michel guénard"
+      ],
+      "page": "30"
+    },
+    {
+      "section": "Article",
+      "title": "partis traditionnels — partis révolutionnaires",
+      "authors": [
+        "yvon hussereau"
+      ],
+      "page": "38"
+    },
+    {
+      "section": "Chroniques",
+      "title": "travail en milieu ouvrier",
+      "authors": [
+        "jean racine"
+      ],
+      "page": "50"
+    },
+    {
+      "section": "Chroniques",
+      "title": "le p.s.q. et l'unité de la gauche",
+      "authors": [
+        "jacques trudel"
+      ],
+      "page": "53"
+    },
+    {
+      "section": "Chroniques",
+      "title": "comme un curé de gauche",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "Chroniques",
+      "title": "carnets politiques de jean-marie nadeau",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "Chroniques",
+      "title": "nous ne sommes pas au monde: giguère, péloquin",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "59"
+    },
+    {
+      "section": "Chroniques",
+      "title": "zola et le peuple: germinal",
+      "authors": [
+        "michel euvrard"
+      ],
+      "page": "62"
+    },
+    {
+      "section": "Chroniques",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "69"
+    },
+    {
+      "section": "Marginales",
+      "title": "marginales",
+      "authors": [],
+      "page": "73"
+    }
+  ]
+}

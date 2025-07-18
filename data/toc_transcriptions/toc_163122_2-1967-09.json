@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "issue_number": "5 no 1",
+    "season_or_month": "sept.",
+    "year": "1967",
+    "director": "philippe bernard",
+    "description": "revue politique et culturelle paraît tous les mois sur 64 pages",
+    "price": "le numéro: 75¢, abonnement d'un an: $6.00",
+    "editors": [
+      "gilles bourque",
+      "thérèse dumouchel",
+      "gabriel gagnon",
+      "pierre maheu",
+      "luc racine",
+      "patrick straram",
+      "maurice vanay"
+    ],
+    "collaborators": [
+      "jacques allard",
+      "denis arcand",
+      "rené beaudin",
+      "jacques brault",
+      "andré brochu",
+      "paul chamberland",
+      "jan depocas",
+      "pierre desrosiers",
+      "raoul duguay",
+      "jacques ferron",
+      "charles gagnon",
+      "roger guy",
+      "robert maheu",
+      "gaston miron",
+      "michel pichette",
+      "jean-marc piotte",
+      "narcisso pizarro",
+      "jacques poisson",
+      "jean-robert rémillard",
+      "gaétan tremblay",
+      "pierre vadboncoeur",
+      "pierre vallières"
+    ],
+    "administration": [
+      "c. p. 149, station \"N\", Montréal 18, Québec"
+    ],
+    "publisher": "parti pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière est, Montréal"
+  },
+  "toc": [
+    {
+      "section": "",
+      "title": "Dédicace",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "",
+      "title": "Editorial",
+      "authors": [],
+      "page": "3"
+    },
+    {
+      "section": "",
+      "title": "De Gaulle: Politique et stratégie.",
+      "authors": [
+        "gilles bourque"
+      ],
+      "page": "7"
+    },
+    {
+      "section": "",
+      "title": "Cuba révolutionnaire.",
+      "authors": [
+        "pierre vallières"
+      ],
+      "page": "19"
+    },
+    {
+      "section": "",
+      "title": "De Gaulle: un tournant.",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "27"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Québec politique.",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "45"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Littérature québécoise.",
+      "authors": [
+        "raoul duguay"
+      ],
+      "page": "46"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Les essais.",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "49"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Temps modernes.",
+      "authors": [
+        "gilles bourque"
+      ],
+      "page": "54"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Les arts \"zartistiques\".",
+      "authors": [
+        "thérèse dumouchel"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "Interprétation de la vie quotidienne.",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "57"
+    }
+  ]
+}

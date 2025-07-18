@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "issue_number": "2, no 5",
+    "season_or_month": "janvier",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "75 cents / 12 numéros: $5.00",
+    "editors": [
+      "paul chamberland",
+      "claire e. depocas",
+      "pierre maheu",
+      "andré brochu",
+      "c. e. depocas"
+    ],
+    "collaborators": [
+      "lise théberge",
+      "j.-m. piotte",
+      "thérèse major",
+      "rené beaudin",
+      "camille limoges",
+      "robert maheu"
+    ],
+    "administration": [],
+    "publisher": "éditions parti pris",
+    "distributor": "Agence de distribution populaire / \"la joie de lire\""
+  },
+  "toc": [
+    {
+      "section": "Articles",
+      "title": "présentation",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "2"
+    },
+    {
+      "section": "Articles",
+      "title": "considérations contradictoires",
+      "authors": [
+        "laurent girouard"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "Articles",
+      "title": "ainsi soit-il",
+      "authors": [
+        "andré major"
+      ],
+      "page": "13"
+    },
+    {
+      "section": "Articles",
+      "title": "le joual et nous",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "18"
+    },
+    {
+      "section": "Articles",
+      "title": "comme tout le monde ou le post-scriptum",
+      "authors": [
+        "jacques renaud"
+      ],
+      "page": "20"
+    },
+    {
+      "section": "Articles",
+      "title": "un long chemin",
+      "authors": [
+        "gaston miron"
+      ],
+      "page": "25"
+    },
+    {
+      "section": "Articles",
+      "title": "dire ce que je suis",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "33"
+    },
+    {
+      "section": "Articles",
+      "title": "notes sur le littéraire et le politique",
+      "authors": [
+        "jacques brault"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "Articles",
+      "title": "la nouvelle relation écrivain-critique",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "Articles",
+      "title": "la chanson d'ici",
+      "authors": [
+        "stéphane venne"
+      ],
+      "page": "63"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "l'état associé: une idéologie de colonisés",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "72"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "conseils pratiques aux manifestants",
+      "authors": [
+        "pierre charbonneau"
+      ],
+      "page": "77"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "assemblées d'information privées",
+      "authors": [
+        "andrée ferretti"
+      ],
+      "page": "79"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "comité de formation politique",
+      "authors": [
+        "mario dumais"
+      ],
+      "page": "80"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "congo: de la lutte de libération nationale à la lutte de classes",
+      "authors": [],
+      "page": "82"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "une jeunesse qui tue",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "85"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "de la lutte (fake) à la boxe",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "86"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "issue_number": "6",
+    "season_or_month": "janvier",
+    "year": "1966",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "Le numéro: 50 cents, 12 numéros: $5.00",
+    "editors": [
+      "jan dépocas",
+      "michel guénard",
+      "pierre maheu",
+      "gaston miron",
+      "jacques trudel"
+    ],
+    "collaborators": [],
+    "administration": [
+      "milishka ryerson",
+      "thérèse major"
+    ],
+    "publisher": "la coopération d'éditions parti pris",
+    "distributor": "Montréal distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+  },
+  "toc": [
+    {
+      "section": "notre politique rédactionnelle",
+      "title": "éditorial",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "sur l'affaire du quartier latin",
+      "title": "campus libre/j.e.",
+      "authors": [],
+      "page": "4"
+    },
+    {
+      "section": "",
+      "title": "critique des fondements théoriques de la stratégie anarchiste",
+      "authors": [
+        "rené beaudin"
+      ],
+      "page": "9"
+    },
+    {
+      "section": "",
+      "title": "défense et illustration du québécien",
+      "authors": [
+        "gilles des marchais"
+      ],
+      "page": "24"
+    },
+    {
+      "section": "chroniques",
+      "title": "la section universitaire du m.l.p.",
+      "authors": [
+        "guy kosak"
+      ],
+      "page": "44"
+    },
+    {
+      "section": "chroniques",
+      "title": "edgar morin: pour une politique de l'homme",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "46"
+    },
+    {
+      "section": "chroniques",
+      "title": "la dépossession du monde",
+      "authors": [
+        "michel euvrard"
+      ],
+      "page": "48"
+    },
+    {
+      "section": "chroniques",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "",
+      "title": "marginales",
+      "authors": [],
+      "page": "58"
+    }
+  ]
+}

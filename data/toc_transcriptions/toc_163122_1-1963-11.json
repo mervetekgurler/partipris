@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "issue_number": "2",
+    "season_or_month": "novembre",
+    "year": "1963",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents (12 numéros: $5.00)",
+    "editors": [
+      "André Brochu",
+      "Paul Chamberland",
+      "Pierre Maheu",
+      "André Major",
+      "Jean-Marc Piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Yvon Dionne",
+      "Laurent Girouard",
+      "Pierre Maheu",
+      "Robert Maheu",
+      "Gérard McKenzie",
+      "Lise Théberge"
+    ],
+    "publisher": "La Revue PARTI PRIS, inc. 790-B rue Champagneur, Montréal (8) Québec",
+    "distributor": "Agence de Distribution Populaire, 1130 est rue Lagauchetière Montréal"
+  },
+  "toc": [
+    {
+      "section": "EDITORIAL",
+      "title": "la révolution et la morale",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "lettre de georges schoeters",
+      "authors": [
+        "georges schoeters"
+      ],
+      "page": "5"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "aliénation culturelle et révolution nationale",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "10"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "l'oeuvre littéraire et la critique",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "23"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "le médecin ressuscité",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "36"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "deux poèmes",
+      "authors": [
+        "gaston miron"
+      ],
+      "page": "38"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "suite fraternelle",
+      "authors": [
+        "jacques brault"
+      ],
+      "page": "39"
+    },
+    {
+      "section": "DOCUMENT",
+      "title": "psaume pour une révolte de terre",
+      "authors": [
+        "paul-marie lapointe"
+      ],
+      "page": "47"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "progrès des manifestations",
+      "authors": [
+        "andré major"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les divertissements",
+      "authors": [
+        "denys arcand"
+      ],
+      "page": "57"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "l'égoïsme sénile ou les amendements de N.N.S.S.",
+      "authors": [
+        "jacques godbout"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "I'A.G.E.U.M. perd la guerre des dix sous",
+      "authors": [
+        "robert mackay"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique du R.I.N.",
+      "authors": [
+        "robert maheu"
+      ],
+      "page": "61"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique du P.S.Q.",
+      "authors": [
+        "jean-claude lebel"
+      ],
+      "page": "61"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "vulgarités",
+      "authors": [],
+      "page": "63"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "issue_number": "4-5-6",
+    "season_or_month": "janv.-fév.",
+    "year": "1967",
+    "director": "gabriel gagnon, luc racine, gaëtan tremblay",
+    "description": "revue politique et culturelle, parait tous les deux mois sur 112 pages ou plus",
+    "price": "le numéro : $1.00, 6 numéros : $6.00",
+    "editors": [
+      "philippe bernard",
+      "paul chamberland",
+      "jan depocas",
+      "raoul duguay",
+      "pierre maheu",
+      "gaston miron",
+      "jean-marc piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "c.p. 149, station \"N\" montréal 18, québec"
+    ],
+    "publisher": "parti pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière Est Tél.: 523-1182"
+  },
+  "toc": [
+    {
+      "section": "éditorial",
+      "title": "l'indépendance au plus vite!",
+      "authors": [
+        "p.p.",
+        "g.t.",
+        "p.m."
+      ],
+      "page": "2"
+    },
+    {
+      "section": "éditorial",
+      "title": "la démocratie a-t-elle un ave- au québec",
+      "authors": [
+        "guy bourassa"
+      ],
+      "page": "6"
+    },
+    {
+      "section": "éditorial",
+      "title": "le r.i.n. : un parti de gauche ?",
+      "authors": [
+        "gilles dostaler"
+      ],
+      "page": "17"
+    },
+    {
+      "section": "histoire et idéologie",
+      "title": "histoire et idéologie",
+      "authors": [
+        "gilles bourque",
+        "luc racine"
+      ],
+      "page": "33"
+    },
+    {
+      "section": "histoire et idéologie",
+      "title": "séraphin ou la dépossession",
+      "authors": [
+        "pierre desrosiers"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "exposé",
+      "title": "la réforme agraire à cuba",
+      "authors": [
+        "lise rochon"
+      ],
+      "page": "63"
+    },
+    {
+      "section": "chroniques",
+      "title": "le québec politique",
+      "authors": [
+        "gaëtan tremblay"
+      ],
+      "page": "71"
+    },
+    {
+      "section": "chroniques",
+      "title": "le québec syndical",
+      "authors": [
+        "gabriel gagnon"
+      ],
+      "page": "77"
+    },
+    {
+      "section": "chroniques",
+      "title": "politique internationale",
+      "authors": [
+        "philippe bernard"
+      ],
+      "page": "81"
+    },
+    {
+      "section": "chroniques",
+      "title": "colonialisme quotidien",
+      "authors": [
+        "p.p."
+      ],
+      "page": "85"
+    },
+    {
+      "section": "chroniques",
+      "title": "la laïcité",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "87"
+    },
+    {
+      "section": "les essais",
+      "title": "les essais",
+      "authors": [
+        "luc racine"
+      ],
+      "page": "89"
+    },
+    {
+      "section": "les essais",
+      "title": "littérature québécoise",
+      "authors": [
+        "raoul duguay"
+      ],
+      "page": "95"
+    },
+    {
+      "section": "les essais",
+      "title": "interprétations de la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "99"
+    },
+    {
+      "section": "marginales",
+      "title": "marginales",
+      "authors": [],
+      "page": "107"
+    }
+  ]
+}

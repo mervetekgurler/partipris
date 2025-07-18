@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "issue_number": "3",
+    "season_or_month": "décembre",
+    "year": "1963",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
+    "price": "50 cents (12 numéros: $5.00)",
+    "editors": [
+      "André Brochu",
+      "Paul Chamberland",
+      "Pierre Maheu",
+      "André Major",
+      "Jean-Marc Piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Yvon Dionne",
+      "Laurent Girouard",
+      "Pierre Maheu",
+      "Robert Maheu",
+      "Gérald McKenzie",
+      "Lise Théberge"
+    ],
+    "publisher": "La Revue PARTI PRIS, inc. 790-B av. Champagneur, Montréal (8) Québec",
+    "distributor": "Agence de Distribution Populaire, 1130 est rue Lagauchetière Montréal. Tél. LA 3-1182"
+  },
+  "toc": [
+    {
+      "section": "EDITORIAL",
+      "title": "PARTI PRIS, le R.I.N. et la révolution",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "Articles",
+      "title": "PROGRAMME POLITIQUE ET ELECTORAL",
+      "authors": [
+        "pierre bourgault"
+      ],
+      "page": "7"
+    },
+    {
+      "section": "Articles",
+      "title": "notre littérature de colonie",
+      "authors": [
+        "laurent girouard"
+      ],
+      "page": "30"
+    },
+    {
+      "section": "Articles",
+      "title": "nouvelles",
+      "authors": [
+        "andré major"
+      ],
+      "page": "38"
+    },
+    {
+      "section": "Articles",
+      "title": "poèmes",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "43"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les révoltés du québec",
+      "authors": [
+        "jacques berque"
+      ],
+      "page": "48"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "un témoignage",
+      "authors": [
+        "andré balestard"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "jazz dans la vie quotidienne",
+      "authors": [
+        "patrick straram"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "ce bordel de pays, 1-",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique de l'éducation",
+      "authors": [
+        "parti pris"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "vulgarités",
+      "authors": [],
+      "page": "63"
+    }
+  ]
+}

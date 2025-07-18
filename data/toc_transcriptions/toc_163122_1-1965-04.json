@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "issue_number": "8",
+    "season_or_month": "avril",
+    "year": "1965",
+    "director": "",
+    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
+    "price": "50 cents (12 numéros: $5.00)",
+    "editors": [
+      "paul chamberland",
+      "jan depocas",
+      "pierre mahou"
+    ],
+    "collaborators": [
+      "j.-m. piotte",
+      "andré brochu",
+      "rené beaudin",
+      "claire e. depocas",
+      "robert maheu"
+    ],
+    "administration": [
+      "lise théberge",
+      "thérèse major"
+    ],
+    "publisher": "l. girouard",
+    "distributor": "Agence de distribution populaire, 418 ouest, Notre-Dame, Montréal. Tél: 849-1146; Dépositaire en France: \"la joie de lire\" 40, rue Saint-Séverin Paris 5e."
+  },
+  "toc": [
+    {
+      "section": "",
+      "title": "ni cléricalisme, ni trahison des anticlercs",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "",
+      "title": "croyance et révolution",
+      "authors": [
+        "pierre lefebvre"
+      ],
+      "page": "7"
+    },
+    {
+      "section": "",
+      "title": "les fidèles, les mécréants et les autres",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "20"
+    },
+    {
+      "section": "CHRONIQUE",
+      "title": "la constitution du mouvement parti pris",
+      "authors": [
+        "le bureau exécutif"
+      ],
+      "page": "45"
+    },
+    {
+      "section": "CHRONIQUE",
+      "title": "le bill 8",
+      "authors": [
+        "mario dumais"
+      ],
+      "page": "47"
+    },
+    {
+      "section": "CHRONIQUE",
+      "title": "controverse sur un nationalisme",
+      "authors": [
+        "jacques poisson"
+      ],
+      "page": "49"
+    },
+    {
+      "section": "CHRONIQUE",
+      "title": "un dangereux extrémiste: le laurendeau-dunton",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "54"
+    },
+    {
+      "section": "CHRONIQUE",
+      "title": "d'un faux dilemme",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUE",
+      "title": "sur trois pièces québécoises",
+      "authors": [
+        "gérald godin"
+      ],
+      "page": "59"
+    }
+  ]
+}

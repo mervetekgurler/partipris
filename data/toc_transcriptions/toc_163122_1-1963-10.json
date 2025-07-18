@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "issue_number": "1",
+    "season_or_month": "octobre",
+    "year": "1963",
+    "director": "",
+    "description": "revue politique et littéraire paraît chaque mois sur 64 pages",
+    "price": "50 cents (12 numéros: $5.00)",
+    "editors": [
+      "André Brochu",
+      "Paul Chamberland",
+      "Pierre Maheu",
+      "André Major",
+      "Jean-Marc Piotte"
+    ],
+    "collaborators": [],
+    "administration": [
+      "Yvon Dionne",
+      "Laurent Girouard",
+      "Pierre Maheu",
+      "Robert Maheu",
+      "Gérald McKenzie",
+      "Lise Théberge"
+    ],
+    "publisher": "La Revue PARTI PRIS, inc. 790-B rue Champagneur, Montréal (8) Québec.",
+    "distributor": "Agence de Distribution Populaire, 1130 est rue Lagauchetière Montréal. Tél. LA 3-1182"
+  },
+  "toc": [
+    {
+      "section": "NOTRE PERSPECTIVE",
+      "title": "présentation",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "NOTRE PERSPECTIVE",
+      "title": "de la révolte à la révolution",
+      "authors": [
+        "pierre maheu"
+      ],
+      "page": "5"
+    },
+    {
+      "section": "NOTRE PERSPECTIVE",
+      "title": "du duplessisme au F.L.Q.",
+      "authors": [
+        "jean-marc piotte"
+      ],
+      "page": "18"
+    },
+    {
+      "section": "NOTRE PERSPECTIVE",
+      "title": "vers une révolution totale",
+      "authors": [
+        "yvon dionne"
+      ],
+      "page": "31"
+    },
+    {
+      "section": "POÈMES",
+      "title": "poème de l'antérévolution",
+      "authors": [
+        "paul chamberland"
+      ],
+      "page": "37"
+    },
+    {
+      "section": "POÈMES",
+      "title": "un enfant du pays",
+      "authors": [
+        "andré brochu"
+      ],
+      "page": "41"
+    },
+    {
+      "section": "POÈMES",
+      "title": "blancheur de moi-même",
+      "authors": [
+        "andré major"
+      ],
+      "page": "47"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "salutations d'usage",
+      "authors": [
+        "pierre vadeboncoeur"
+      ],
+      "page": "50"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique d'une révolution",
+      "authors": [
+        "andré major"
+      ],
+      "page": "52"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique du R.I.N.",
+      "authors": [
+        "robert maheu"
+      ],
+      "page": "55"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "les divertissements",
+      "authors": [
+        "denys arcand"
+      ],
+      "page": "56"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "paul morin",
+      "authors": [
+        "jacques ferron"
+      ],
+      "page": "58"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "pour riches seulement",
+      "authors": [
+        "jacques godbout"
+      ],
+      "page": "60"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "chronique de l'éducation",
+      "authors": [
+        "camille limoges"
+      ],
+      "page": "61"
+    },
+    {
+      "section": "CHRONIQUES",
+      "title": "vulgarités",
+      "authors": [],
+      "page": "63"
+    }
+  ]
+}

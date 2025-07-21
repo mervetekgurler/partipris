@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "",
     "issue_number": "4",
     "season_or_month": "janvier",
     "year": "1964",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "Prix 50 cents, 12 numéros: $5.00",
+    "price": "50 cents (12 numéros: $5.00)",
     "editors": [
       "André Brochu",
       "Paul Chamberland",
@@ -21,7 +22,7 @@
       "Pierre Maheu",
       "Robert Maheu",
       "Gérald McKenzie",
-      "Lise Théberge"
+      "Lise Thé-berge"
     ],
     "publisher": "La Revue PARTI PRIS, inc.",
     "distributor": "Agence de Distribution Populaire"
@@ -83,7 +84,7 @@
     },
     {
       "section": "CHRONIQUES",
-      "title": "I camille limoges",
+      "title": "chronique de l'éducation I",
       "authors": [
         "camille limoges"
       ],
@@ -91,7 +92,7 @@
     },
     {
       "section": "CHRONIQUES",
-      "title": "II jacques brault",
+      "title": "chronique de l'éducation II",
       "authors": [
         "jacques brault"
       ],

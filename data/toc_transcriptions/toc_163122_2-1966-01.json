@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "3",
     "issue_number": "6",
     "season_or_month": "janvier",
     "year": "1966",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
-    "price": "Le numéro: 50 cents, 12 numéros: $5.00",
+    "price": "Le numéro: 50 cents; 12 numéros: $5.00",
     "editors": [
       "jan dépocas",
       "michel guénard",
@@ -15,27 +16,29 @@
     ],
     "collaborators": [],
     "administration": [
-      "milishka ryerson",
-      "thérèse major"
+      "C.P. 149, station \"N\" Montréal 18, Québec"
     ],
     "publisher": "la coopération d'éditions parti pris",
-    "distributor": "Montréal distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+    "distributor": "Montréal distributions, Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
   },
   "toc": [
     {
-      "section": "notre politique rédactionnelle",
-      "title": "éditorial",
+      "section": "Articles",
+      "title": "notre politique rédactionnelle",
       "authors": [],
       "page": "2"
     },
     {
-      "section": "sur l'affaire du quartier latin",
-      "title": "campus libre/j.e.",
-      "authors": [],
+      "section": "Articles",
+      "title": "sur l'affaire du quartier latin",
+      "authors": [
+        "campus libre",
+        "j.e."
+      ],
       "page": "4"
     },
     {
-      "section": "",
+      "section": "Articles",
       "title": "critique des fondements théoriques de la stratégie anarchiste",
       "authors": [
         "rené beaudin"
@@ -43,7 +46,7 @@
       "page": "9"
     },
     {
-      "section": "",
+      "section": "Articles",
       "title": "défense et illustration du québécien",
       "authors": [
         "gilles des marchais"
@@ -51,7 +54,7 @@
       "page": "24"
     },
     {
-      "section": "chroniques",
+      "section": "Chroniques",
       "title": "la section universitaire du m.l.p.",
       "authors": [
         "guy kosak"
@@ -59,15 +62,16 @@
       "page": "44"
     },
     {
-      "section": "chroniques",
-      "title": "edgar morin: pour une politique de l'homme",
+      "section": "Chroniques",
+      "title": "pour une politique de l'homme",
       "authors": [
+        "edgar morin",
         "paul chamberland"
       ],
       "page": "46"
     },
     {
-      "section": "chroniques",
+      "section": "Chroniques",
       "title": "la dépossession du monde",
       "authors": [
         "michel euvrard"
@@ -75,7 +79,7 @@
       "page": "48"
     },
     {
-      "section": "chroniques",
+      "section": "Chroniques",
       "title": "interprétations de la vie quotidienne",
       "authors": [
         "patrick straram"
@@ -83,8 +87,8 @@
       "page": "52"
     },
     {
-      "section": "",
-      "title": "marginales",
+      "section": "Marginales",
+      "title": "",
       "authors": [],
       "page": "58"
     }

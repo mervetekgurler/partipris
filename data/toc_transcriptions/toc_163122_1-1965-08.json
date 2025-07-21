@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "1",
     "issue_number": "1-2",
     "season_or_month": "août-septembre",
     "year": "1965",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
-    "price": "50 cents, 12 numéros: $5.00",
+    "price": "50 cents (single issue), $5.00 (12 issues)",
     "editors": [
       "andrée benoist",
       "jan depocas",
@@ -16,21 +17,21 @@
     ],
     "collaborators": [],
     "administration": [
-      "thérèse major",
-      "claire-emmanuèle depocas"
+      "claire-emmanuèle depocas",
+      "thérèse major"
     ],
     "publisher": "La cooprérative d'éditions Parti Pris",
     "distributor": "Agence de distribution Populaire"
   },
   "toc": [
     {
-      "section": "",
+      "section": "Manifeste",
       "title": "manifeste 1965-66",
       "authors": [],
       "page": "2"
     },
     {
-      "section": "",
+      "section": "Articles",
       "title": "les classes sociales au québec",
       "authors": [
         "mario dumais"
@@ -38,7 +39,7 @@
       "page": "42"
     },
     {
-      "section": "",
+      "section": "Articles",
       "title": "où allons-nous",
       "authors": [
         "jean-marc piotte"
@@ -46,7 +47,7 @@
       "page": "64"
     },
     {
-      "section": "",
+      "section": "Articles",
       "title": "où sont les bombes d'antan",
       "authors": [
         "andrée bertrand-ferretti"
@@ -71,7 +72,7 @@
     },
     {
       "section": "CHRONIQUES",
-      "title": "le m.l.p. doit s'éteridre",
+      "title": "le m.l.p. doit s'étendre",
       "authors": [
         "mario dumais",
         "robert tremblay"
@@ -112,7 +113,7 @@
       "section": "CHRONIQUES",
       "title": "pour un appel à la discipline",
       "authors": [
-        "enmmanuel garon"
+        "emmanuel garon"
       ],
       "page": "105"
     },

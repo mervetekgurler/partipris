@@ -1,17 +1,13 @@
 {
   "metadata": {
+    "volume_number": "4",
     "issue_number": "7-8",
     "season_or_month": "mars - avril",
     "year": "1967",
-    "director": "",
-    "description": "revue politique et culturelle, paraît tous les deux mois sur 112 pages ou plus",
-    "price": "le numéro: $1.00, 6 numéros: $6.00",
+    "director": "gabriel gagnon, luc racine, gaëtan tremblay",
+    "description": "revue politique et culturelle paraît tous les deux mois sur 112 pages ou plus",
+    "price": "le numéro: $1.00 6 numéros: $6.00",
     "editors": [
-      "gabriel gagnon",
-      "luc racine",
-      "gaëtan tremblay"
-    ],
-    "collaborators": [
       "philippe bernard",
       "paul chamberland",
       "jan depocas",
@@ -20,19 +16,15 @@
       "gaston miron",
       "jean-marc piotte"
     ],
+    "collaborators": [],
     "administration": [
-      "c.p. 149, station \"N\" montréal 18, québec"
+      "michel rivet",
+      "patrick straram"
     ],
-    "publisher": "Parti Pris",
-    "distributor": "agence de distribution populaire, 1130 Lagauchetière Est Tél.: 523-1182"
+    "publisher": "",
+    "distributor": "agence de distribution populaire"
   },
   "toc": [
-    {
-      "section": "éditorial",
-      "title": "éditorial",
-      "authors": [],
-      "page": ""
-    },
     {
       "section": "éditorial",
       "title": "le bill 25 et l'action intersyndicale",

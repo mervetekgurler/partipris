@@ -1,23 +1,24 @@
 {
   "metadata": {
+    "volume_number": "2",
     "issue_number": "1",
     "season_or_month": "septembre",
     "year": "1964",
-    "director": "l. girouard",
+    "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents",
+    "price": "50 cents (12 numéros: $5.00)",
     "editors": [
       "paul chamberland",
       "pierre maheu"
     ],
-    "collaborators": [
-      "camille limoges",
-      "robert maheu"
-    ],
+    "collaborators": [],
     "administration": [
       "lise théberge",
       "j.-m. piotte",
-      "thérèse major"
+      "thérèse major",
+      "l. girouard",
+      "camille limoges",
+      "robert maheu"
     ],
     "publisher": "éditions parti pris",
     "distributor": "Agence de distribution populaire"
@@ -62,9 +63,7 @@
     {
       "section": "CHRONIQUES",
       "title": "lettre de raymond villeneuve",
-      "authors": [
-        "raymond villeneuve"
-      ],
+      "authors": [],
       "page": "57"
     },
     {

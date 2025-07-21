@@ -1,10 +1,11 @@
 {
   "metadata": {
+    "volume_number": "5",
     "issue_number": "5",
     "season_or_month": "février",
     "year": "1968",
     "director": "philippe bernard",
-    "description": "revue politique et culturelle, paraît tous les mois sur 60 pages",
+    "description": "revue politique et culturelle paraît tous les mois sur 60 pages",
     "price": "75¢",
     "editors": [
       "gilles bourque",
@@ -16,7 +17,7 @@
       "robert tremblay"
     ],
     "collaborators": [
-      "jacques aliard",
+      "jacques allard",
       "denis arcand",
       "rené beaudin",
       "jacques brault",
@@ -46,7 +47,7 @@
       "huguette corbo",
       "marc laliberté"
     ],
-    "publisher": "Parti Pris",
+    "publisher": "parti pris",
     "distributor": "agence de distribution populaire"
   },
   "toc": [
@@ -81,7 +82,7 @@
       "page": "14"
     },
     {
-      "section": "",
+      "section": "un parti pour la gauche québécoise",
       "title": "un parti pour la gauche québécoise",
       "authors": [
         "françois bachand"
@@ -89,7 +90,7 @@
       "page": "16"
     },
     {
-      "section": "",
+      "section": "la CSN: structure et stratégie",
       "title": "la CSN: structure et stratégie",
       "authors": [
         "gilles dostaler"
@@ -97,7 +98,7 @@
       "page": "19"
     },
     {
-      "section": "",
+      "section": "pourquoi la révolution",
       "title": "pourquoi la révolution",
       "authors": [
         "charles gagnon"
@@ -122,7 +123,7 @@
       "page": "41"
     },
     {
-      "section": "",
+      "section": "le québec en mots dit",
       "title": "le québec en mots dit",
       "authors": [
         "pierre maheu"
@@ -130,7 +131,7 @@
       "page": "48"
     },
     {
-      "section": "",
+      "section": "les arts artistiques",
       "title": "les arts artistiques",
       "authors": [
         "thérèse dumouchel"
@@ -138,7 +139,7 @@
       "page": "50"
     },
     {
-      "section": "",
+      "section": "levac . . . loranger . . .",
       "title": "levac . . . loranger . . .",
       "authors": [
         "thérèse dumouchel"

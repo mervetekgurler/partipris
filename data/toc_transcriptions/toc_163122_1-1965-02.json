@@ -1,36 +1,33 @@
 {
   "metadata": {
+    "volume_number": "2",
     "issue_number": "6",
     "season_or_month": "février",
     "year": "1965",
-    "director": "",
+    "director": "Paul Chamberland",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
-    "price": "50 cents (12 numéros: $5.00)",
+    "price": "50 cents 12 numéros: $5.00",
     "editors": [
-      "paul chamberland",
-      "jan depocas",
-      "pierre maheu",
-      "andré brochu"
+      "Paul Chamberland",
+      "Jan Depocas",
+      "Pierre Maheu",
+      "André Brochu",
+      "René Beaudin"
     ],
     "collaborators": [],
     "administration": [
-      "lise théberge",
-      "j.-m. piotte",
-      "thérèse major",
-      "rené beaudin",
-      "claire e. depocas",
-      "robert maheu"
+      "Lise Théberge",
+      "Thérèse Major",
+      "Robert Maheu"
     ],
     "publisher": "éditions parti pris",
-    "distributor": "Agence de distribution populaire (Canada); La Joie de Lire (France)"
+    "distributor": "Agence de distribution populaire"
   },
   "toc": [
     {
       "section": "LE SYNDICALISME",
-      "title": "bilan syndical",
-      "authors": [
-        "éditorial"
-      ],
+      "title": "bilan syndical éditorial",
+      "authors": [],
       "page": "2"
     },
     {
@@ -49,7 +46,7 @@
       "section": "LE SYNDICALISME",
       "title": "propos sur le syndicalisme et la question nationale",
       "authors": [
-        "jacques-victor morin"
+        "Jacques-Victor Morin"
       ],
       "page": "13"
     },
@@ -57,7 +54,7 @@
       "section": "LE SYNDICALISME",
       "title": "le syndicalisme étudiant québécois",
       "authors": [
-        "michael mc andrew"
+        "Michael Mc Andrew"
       ],
       "page": "19"
     },
@@ -65,7 +62,7 @@
       "section": "LE SYNDICALISME",
       "title": "les cultivateurs s'organisent",
       "authors": [
-        "michael draper"
+        "Michael Draper"
       ],
       "page": "29"
     },
@@ -73,7 +70,7 @@
       "section": "LE SYNDICALISME",
       "title": "des employés du gouvernement vs leur employeur",
       "authors": [
-        "jean-marc piotte"
+        "Jean-Marc Piotte"
       ],
       "page": "42"
     },
@@ -81,7 +78,7 @@
       "section": "LE SYNDICALISME",
       "title": "à qui la place?",
       "authors": [
-        "paul chamberland"
+        "Paul Chamberland"
       ],
       "page": "46"
     },
@@ -89,7 +86,7 @@
       "section": "CHRONIQUES",
       "title": "quand les chrétiens dévorent les lions",
       "authors": [
-        "robert maheu"
+        "Robert Maheu"
       ],
       "page": "52"
     },
@@ -97,7 +94,7 @@
       "section": "CHRONIQUES",
       "title": "le poisson pêché",
       "authors": [
-        "andré brochu"
+        "André Brochu"
       ],
       "page": "55"
     },
@@ -105,7 +102,7 @@
       "section": "CHRONIQUES",
       "title": "007",
       "authors": [
-        "jacques godbout"
+        "Jacques Godbout"
       ],
       "page": "59"
     }

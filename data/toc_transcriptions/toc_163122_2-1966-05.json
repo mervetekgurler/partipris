@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "3",
     "issue_number": "10",
     "season_or_month": "mai",
     "year": "1966",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 80 pages",
-    "price": "60 cents le numéro, 12 numéros: $6.00",
+    "price": "60 cents (le numéro); $6.00 (12 numéros)",
     "editors": [
       "paul chamberland",
       "jan depocas",
@@ -18,23 +19,21 @@
     ],
     "collaborators": [],
     "administration": [
-      "Milischka Ryerson",
-      "Thérèse Major"
+      "milischka ryerson (abonnements)",
+      "thérèse major (comptabilité)"
     ],
     "publisher": "la coopérative d'éditions parti pris",
-    "distributor": "Montréal : distributions Laval Ltée, 290 boulevard Pie IX, Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb, Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
   },
   "toc": [
     {
-      "section": "Articles",
+      "section": "éditorial",
       "title": "les élections: naissance d'une alternative",
-      "authors": [
-        "éditorial"
-      ],
+      "authors": [],
       "page": "2"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "le b.a.e.q.: socialisme ou néo-capitalisme?",
       "authors": [
         "gabriel gagnon"
@@ -42,7 +41,7 @@
       "page": "4"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "l'action",
       "authors": [
         "roger guy"
@@ -50,7 +49,7 @@
       "page": "6"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "notes sur l'animation sociale au b.a.e.q.",
       "authors": [
         "bertrand lebel"
@@ -58,7 +57,7 @@
       "page": "18"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "l'esquisse d'un plan incertain",
       "authors": [
         "gabriel gagnon"
@@ -66,7 +65,7 @@
       "page": "29"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "l'option politique du b.a.e.q.",
       "authors": [
         "jean-marc piotte"
@@ -98,7 +97,7 @@
       "page": "56"
     },
     {
-      "section": "chroniques",
+      "section": "",
       "title": "\"crise à parti pris!\"",
       "authors": [
         "gérald godin"
@@ -106,7 +105,7 @@
       "page": "59"
     },
     {
-      "section": "chroniques",
+      "section": "",
       "title": "(sur) vivre aux u.s.a.",
       "authors": [
         "michel euvrard"
@@ -114,7 +113,7 @@
       "page": "61"
     },
     {
-      "section": "chroniques",
+      "section": "",
       "title": "interprétations de la vie quotidienne",
       "authors": [
         "patrick straram"

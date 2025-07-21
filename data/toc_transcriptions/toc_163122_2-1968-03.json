@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "5",
     "issue_number": "6",
     "season_or_month": "mars",
     "year": "1968",
     "director": "philippe bernard",
     "description": "revue politique et culturelle paraît tous les mois sur 60 pages",
-    "price": "75¢ (single issue), $6.00 (annual subscription)",
+    "price": "75¢",
     "editors": [
       "gilles bourque",
       "jan depocas",
@@ -18,67 +19,66 @@
     ],
     "collaborators": [
       "jacques allard",
-      "denis arcand",
-      "rené beaudin",
-      "jacques brault",
-      "andré brochu",
-      "paul chamberland",
-      "pierre desrosiers",
-      "raoul duguay",
-      "jacques ferron",
-      "charles gagnon",
-      "roger guy",
-      "robert maheu",
       "gaston miron",
+      "denis arcand",
       "michel pichette",
+      "rené beaudin",
       "jean-marc piotte",
+      "jacques brault",
       "narcisso pizarro",
+      "andré brochu",
       "jacques poisson",
+      "paul chamberland",
       "jean-robert rémillard",
+      "pierre desrosiers",
       "pierre renaud",
+      "raoul duguay",
       "patrick straram",
+      "jacques ferron",
       "andré théberge",
+      "charles gagnon",
       "gaétan tremblay",
+      "roger guy",
       "pierre vadeboncoeur",
+      "robert maheu",
       "pierre vallières"
     ],
     "administration": [
-      "c.p. 149, station \"N\", Montréal 18, Québec",
       "administrateur: jean-claude robert",
       "secrétaire: huguette corbo",
       "trésorier: marc laliberté",
       "maquettistes: jacques des rosiers",
       "maquettistes: rené bonenfant"
     ],
-    "publisher": "Parti Pris",
-    "distributor": "agence de distribution populaire, 1130 Lagauchetière est, Montréal"
+    "publisher": "",
+    "distributor": "agence de distribution populaire"
   },
   "toc": [
     {
-      "section": "éditorial",
-      "title": "",
+      "section": "Éditorial",
+      "title": "éditorial",
       "authors": [],
       "page": "3"
     },
     {
-      "section": "Québec politique",
-      "title": "",
+      "section": "Politique",
+      "title": "Québec politique",
       "authors": [
         "gilles bourque"
       ],
       "page": "9"
     },
     {
-      "section": "Québec syndical",
-      "title": "",
+      "section": "Syndical",
+      "title": "Québec syndical",
       "authors": [
         "gabriel gagnon"
       ],
       "page": "10"
     },
     {
-      "section": "Québec économique",
-      "title": "",
+      "section": "Économie",
+      "title": "Québec économique",
       "authors": [
         "jean-guy loranger",
         "luc racine"
@@ -86,45 +86,47 @@
       "page": "12"
     },
     {
-      "section": "politique internationale",
-      "title": "",
+      "section": "Politique internationale",
+      "title": "politique internationale",
       "authors": [
         "philippe bernard"
       ],
       "page": "15"
     },
     {
-      "section": "reportage",
+      "section": "Reportage",
       "title": "les noirs d'ici",
       "authors": [],
       "page": "17"
     },
     {
-      "section": "table ronde",
+      "section": "Table ronde",
       "title": "l'option Lévesque",
       "authors": [],
       "page": "25"
     },
     {
-      "section": "document",
+      "section": "Document",
       "title": "manifeste parti pris 1964-1965",
       "authors": [],
       "page": "37"
     },
     {
-      "section": "entrevue",
-      "title": "avec marcel pépin",
+      "section": "Entrevue",
+      "title": "entrevue avec marcel pépin",
       "authors": [],
       "page": "43"
     },
     {
-      "section": "",
-      "title": "la poésie rebelle de raoul duguay",
-      "authors": [],
+      "section": "Poésie",
+      "title": "la poésie rebelle",
+      "authors": [
+        "raoul duguay"
+      ],
       "page": "51"
     },
     {
-      "section": "",
+      "section": "Mots dits",
       "title": "le Québec en mots dit",
       "authors": [
         "pierre maheu"
@@ -132,7 +134,7 @@
       "page": "54"
     },
     {
-      "section": "",
+      "section": "Critique",
       "title": "critique critique",
       "authors": [
         "andré théberge"

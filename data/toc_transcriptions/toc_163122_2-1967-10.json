@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "issue_number": "5 (2-3)",
-    "season_or_month": "octobre-novembre",
+    "volume_number": "5",
+    "issue_number": "2-3",
+    "season_or_month": "oct.-nov.",
     "year": "1967",
     "director": "philippe bernard",
-    "description": "revue politique et culturelle, paraît tous les mois sur 60 pages",
-    "price": "75¢ (single issue), $6.00 (annual subscription)",
+    "description": "revue politique et culturelle paraît tous les mois sur 60 pages",
+    "price": "75¢",
     "editors": [
       "gilles bourque",
       "gilles dostaler",
@@ -42,21 +43,19 @@
       "pierre vallières"
     ],
     "administration": [
-      "huguette corbo (secrétaire)",
-      "marc laliberté (trésorier)",
-      "jacques des rosiers (maquettiste)",
-      "rené bonenfant (maquettiste)"
+      "Maquettistes: jacques des rosiers",
+      "Maquettistes: rené bonenfant",
+      "Secrétaire: huguette corbo",
+      "Trésorier: marc laliberté"
     ],
-    "publisher": "Parti Pris",
-    "distributor": "agence de distribution populaire, 1130 Lagauchetière est. Montréal"
+    "publisher": "parti pris",
+    "distributor": "agence de distribution populaire"
   },
   "toc": [
     {
       "section": "",
       "title": "éditorial",
-      "authors": [
-        "N/A"
-      ],
+      "authors": [],
       "page": "3"
     },
     {
@@ -93,10 +92,8 @@
     },
     {
       "section": "DOCUMENT",
-      "title": "créer deux, trois . . . de nombreux Vietnam",
-      "authors": [
-        "N/A"
-      ],
+      "title": "créer deux, trois ... de nombreux Vietnam",
+      "authors": [],
       "page": "37"
     },
     {

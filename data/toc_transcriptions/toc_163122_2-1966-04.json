@@ -1,39 +1,39 @@
 {
   "metadata": {
-    "issue_number": "3, no 9",
+    "volume_number": "3",
+    "issue_number": "9",
     "season_or_month": "avril",
     "year": "1966",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 80 pages",
-    "price": "60 cents (le numéro), $6.00 (12 numéros)",
+    "price": "60 cents / 12 numéros: $6.00",
     "editors": [
       "paul chamberland",
       "jan depocas",
       "gabriel gagnon",
       "michel guénard",
-      "pierre mateu",
+      "pierre maheu",
       "gaston miron",
       "patrick straram",
       "jacques trudel"
     ],
     "collaborators": [],
     "administration": [
-      "C.P. 149, station \"N\" Montréal 18, Québec"
+      "milischka ryerson",
+      "thérèse major"
     ],
     "publisher": "la coopérative d'éditions parti pris",
-    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+    "distributor": "Montréal : distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
   },
   "toc": [
     {
-      "section": "Articles",
-      "title": "pour un parti des travailleurs québécois",
-      "authors": [
-        "éditorial"
-      ],
+      "section": "pour un parti des travailleurs québécois",
+      "title": "éditorial",
+      "authors": [],
       "page": "2"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "beatniks, vietniks, — québec-niks: gauchisme à gogo?",
       "authors": [
         "jan depocas"
@@ -41,7 +41,7 @@
       "page": "9"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "entretien avec claude gauvreau",
       "authors": [
         "jan depocas"
@@ -49,7 +49,7 @@
       "page": "14"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "beauté baroque",
       "authors": [
         "claude gauvreau"
@@ -57,7 +57,7 @@
       "page": "20"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "décombres",
       "authors": [
         "denis vanier"
@@ -65,7 +65,7 @@
       "page": "36"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "entretien avec claude péloquin",
       "authors": [
         "paul chamberland"
@@ -73,7 +73,7 @@
       "page": "38"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "poèmes, manifestes",
       "authors": [
         "claude péloquin"

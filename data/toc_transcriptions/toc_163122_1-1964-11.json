@@ -1,36 +1,37 @@
 {
   "metadata": {
+    "volume_number": "2",
     "issue_number": "3",
     "season_or_month": "novembre",
     "year": "1964",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents / 12 numéros: $5.00",
+    "price": "50 cents (12 numéros: $5.00)",
     "editors": [
       "paul chamberland",
       "pierre maheu"
     ],
-    "collaborators": [
-      "camille limoges"
-    ],
+    "collaborators": [],
     "administration": [
       "lise théberge",
+      "j.-m. piotte",
       "thérèse major",
       "rené beaudin",
+      "l. girouard",
       "robert maheu"
     ],
-    "publisher": "éditions parti pris",
+    "publisher": "Parti Pris",
     "distributor": "Agence de distribution populaire"
   },
   "toc": [
     {
-      "section": "Articles",
+      "section": "",
       "title": "le samedi de la matraque éditorial",
       "authors": [],
       "page": "2"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "un appui critique à la néo-bourgeoisie",
       "authors": [
         "jean-marc piotte"
@@ -38,7 +39,7 @@
       "page": "6"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "perspectives d'action",
       "authors": [
         "pierre maheu"
@@ -46,7 +47,7 @@
       "page": "10"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "la haine",
       "authors": [
         "jacques godbout"
@@ -54,7 +55,7 @@
       "page": "16"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "notre premier parti socialiste",
       "authors": [
         "yvon dionne"
@@ -62,7 +63,7 @@
       "page": "23"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "un chien blanchi",
       "authors": [
         "gérald godin"
@@ -70,7 +71,7 @@
       "page": "34"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "la semaine dernière pas loin du pont",
       "authors": [
         "andré major"
@@ -78,7 +79,7 @@
       "page": "37"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "poèmes",
       "authors": [
         "jacques renaud"

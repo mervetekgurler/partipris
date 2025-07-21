@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "9-10-11",
     "issue_number": "9-10-11",
     "season_or_month": "été",
     "year": "1964",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents (12 numéros: $5.00)",
+    "price": "50 cents (single copy), $5.00 (12 issues)",
     "editors": [
       "Paul Chamberland",
       "Laurent Girouard",
@@ -28,14 +29,10 @@
     {
       "section": "PORTRAIT DU COLONISÉ",
       "title": "de l'homo politicus à nous",
-      "authors": [],
+      "authors": [
+        "éditorial"
+      ],
       "page": "2"
-    },
-    {
-      "section": "PORTRAIT DU COLONISÉ",
-      "title": "éditorial",
-      "authors": [],
-      "page": ""
     },
     {
       "section": "PORTRAIT DU COLONISÉ",
@@ -86,7 +83,7 @@
       "page": "53"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "cinéma et sexualité",
       "authors": [
         "denys arcand"
@@ -94,7 +91,7 @@
       "page": "90"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "l'érotisme dans les romans...",
       "authors": [
         "réginald hamel"
@@ -102,7 +99,7 @@
       "page": "98"
     },
     {
-      "section": "Articles",
+      "section": "",
       "title": "yves thériault et la sexualité",
       "authors": [
         "andré brochu"
@@ -120,7 +117,9 @@
     {
       "section": "CHRONIQUES",
       "title": "sur gérard pelletier",
-      "authors": [],
+      "authors": [
+        "gérald godin"
+      ],
       "page": "161"
     },
     {

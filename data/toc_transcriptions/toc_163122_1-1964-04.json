@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "",
     "issue_number": "7",
     "season_or_month": "avril",
     "year": "1964",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents",
+    "price": "50 centa (12 numéros: $5.00)",
     "editors": [
       "Paul Chamberland",
       "Laurent Girouard",
@@ -23,15 +24,13 @@
       "Lise Théberge"
     ],
     "publisher": "La Revue PARTI PRIS, Inc.",
-    "distributor": "Agence de Distribution Populaire"
+    "distributor": "Agence de Distribution Populaire, 1130 est, rue Lagauchetière Montréal"
   },
   "toc": [
     {
       "section": "",
       "title": "l'onf, ou un cinéma québécois?",
-      "authors": [
-        "éditorial"
-      ],
+      "authors": [],
       "page": "2"
     },
     {

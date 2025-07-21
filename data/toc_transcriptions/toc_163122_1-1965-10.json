@@ -1,35 +1,42 @@
 {
   "metadata": {
-    "issue_number": "vol. 3, nos 1-2",
+    "volume_number": "3",
+    "issue_number": "1-2",
     "season_or_month": "octobre-novembre",
     "year": "1965",
     "director": "",
-    "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
-    "price": "Le numéro: 50 cents 12 numéros: $5.00",
+    "description": "revue politique et culturelle parait chaque mois sur 64 pages ou plus",
+    "price": "50 cents (1 numéro), $5.00 (12 numéros)",
     "editors": [
       "jan depocas",
-      "michel guénard",
+      "michel guén ard",
       "pierre maheu",
       "gaston miron",
       "jacques trudel"
     ],
     "collaborators": [],
     "administration": [
-      "thérèse major"
+      "Thérèse Major"
     ],
     "publisher": "La coopération d'éditions Parti Pris",
-    "distributor": "Montréal: distributions Laval Ltée 290 Boulevard Pie IX Québec: Agence Provinciale (Québec) inc. 226 est, Christophe Colomb Hull: Lib. Libre 130 rue de l'Hôtel de Ville."
+    "distributor": "Montréal: distributions Laval Ltée 290 Boulevard Pie IX; Québec: Agence Provinciale (Québec) inc. 226 est, Christophe Colomb; Hull: Lib. Libre 130 rue de l'Hôtel de Ville."
   },
   "toc": [
     {
       "section": "sommaire",
-      "title": "saint wagner.",
+      "title": "saint wagner",
       "authors": [],
       "page": "2"
     },
     {
       "section": "sommaire",
-      "title": "la mission de M. wagner.",
+      "title": "éditorial",
+      "authors": [],
+      "page": "2"
+    },
+    {
+      "section": "sommaire",
+      "title": "la mission de M. wagner",
       "authors": [
         "jacques ferron"
       ],
@@ -37,7 +44,7 @@
     },
     {
       "section": "sommaire",
-      "title": "la protection de l'état.",
+      "title": "la protection de l'état",
       "authors": [
         "pierre maheu"
       ],
@@ -45,7 +52,7 @@
     },
     {
       "section": "sommaire",
-      "title": "le fait criminel dans la société capitaliste.",
+      "title": "le fait criminel dans la société capitaliste",
       "authors": [
         "michel guénard"
       ],
@@ -53,7 +60,7 @@
     },
     {
       "section": "sommaire",
-      "title": "le dossier schirm-guénette.",
+      "title": "le dossier schirm-guénette",
       "authors": [
         "andrée benoist"
       ],
@@ -61,7 +68,7 @@
     },
     {
       "section": "sommaire",
-      "title": "de l'importance de l'action idéologique.",
+      "title": "de l'importance de l'action idéologique",
       "authors": [
         "pierre vadboncoeur"
       ],
@@ -77,7 +84,7 @@
     },
     {
       "section": "sommaire",
-      "title": "divorce à la chinoise.",
+      "title": "divorce à la chinoise",
       "authors": [
         "bernard s. mergler"
       ],
@@ -98,8 +105,8 @@
       "page": "71"
     },
     {
-      "section": "marginales.",
-      "title": "marginales.",
+      "section": "marginales",
+      "title": "marginales",
       "authors": [],
       "page": "94"
     }

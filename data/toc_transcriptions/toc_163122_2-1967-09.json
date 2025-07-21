@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "issue_number": "5 no 1",
+    "volume_number": "5",
+    "issue_number": "1",
     "season_or_month": "sept.",
     "year": "1967",
     "director": "philippe bernard",
     "description": "revue politique et culturelle paraît tous les mois sur 64 pages",
-    "price": "le numéro: 75¢, abonnement d'un an: $6.00",
+    "price": "75€",
     "editors": [
       "gilles bourque",
       "thérèse dumouchel",
@@ -40,26 +41,28 @@
       "pierre vallières"
     ],
     "administration": [
-      "c. p. 149, station \"N\", Montréal 18, Québec"
+      "jacques desrosiers",
+      "huguette corbo",
+      "marc laliberté"
     ],
-    "publisher": "parti pris",
-    "distributor": "agence de distribution populaire, 1130 Lagauchetière est, Montréal"
+    "publisher": "",
+    "distributor": "agence de distribution populaire"
   },
   "toc": [
     {
-      "section": "",
+      "section": "Dédicace",
       "title": "Dédicace",
       "authors": [],
       "page": "2"
     },
     {
-      "section": "",
+      "section": "Editorial",
       "title": "Editorial",
       "authors": [],
       "page": "3"
     },
     {
-      "section": "",
+      "section": "Article",
       "title": "De Gaulle: Politique et stratégie.",
       "authors": [
         "gilles bourque"
@@ -67,7 +70,7 @@
       "page": "7"
     },
     {
-      "section": "",
+      "section": "Article",
       "title": "Cuba révolutionnaire.",
       "authors": [
         "pierre vallières"
@@ -75,7 +78,7 @@
       "page": "19"
     },
     {
-      "section": "",
+      "section": "Article",
       "title": "De Gaulle: un tournant.",
       "authors": [
         "thérèse dumouchel"

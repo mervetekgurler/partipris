@@ -1,29 +1,28 @@
 {
   "metadata": {
-    "issue_number": "vol 3, nos 5",
+    "volume_number": "3",
+    "issue_number": "5",
     "season_or_month": "décembre",
     "year": "1965",
     "director": "",
     "description": "revue politique et culturelle parait chaque mois sur 64 pages ou plus.",
-    "price": "Le numéro: 50 cents 12 numéros: $5.00",
+    "price": "50 cents (1 numéro), $5.00 (12 numéros)",
     "editors": [
       "jan depocas",
       "michel guénard",
       "pierre maheu",
       "gaston miron",
-      "jacques trudel"
+      "Jacques trudel"
     ],
     "collaborators": [],
-    "administration": [
-      "Rédaction et abonnements: 3774, rue Saint-Denis, Montréal 18, Québec. Tél. 844-7119"
-    ],
+    "administration": [],
     "publisher": "La coopération d'éditions Parti Pris",
-    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville."
+    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville."
   },
   "toc": [
     {
       "section": "Editorial",
-      "title": "la crise de l'ageum, révolution ou gauchisme?",
+      "title": "la crise de l'ageum, révolution Ou gauchisme?",
       "authors": [],
       "page": "2"
     },
@@ -45,7 +44,7 @@
     },
     {
       "section": "poésie",
-      "title": "Textes poétiques",
+      "title": "poésie",
       "authors": [
         "jan depocas"
       ],
@@ -101,7 +100,7 @@
     },
     {
       "section": "marginales",
-      "title": "Marginales",
+      "title": "marginales",
       "authors": [],
       "page": "80"
     }

@@ -1,177 +1,179 @@
 {
   "metadata": {
-    "issue_number": "Vol. 4, Nos. 9-10-11-12",
+    "volume_number": "4",
+    "issue_number": "9-10-11-12",
     "season_or_month": "mai - août",
     "year": "1967",
-    "director": "Gabriel Gagnon, Luc Racine, Gaëtan Tremblay",
-    "description": "revue politique et culturelle; paraît tous les deux mois sur 112 pages ou plus",
-    "price": "$1.00 (per issue), $6.00 (6 issues)",
+    "director": "gabriel gagnon, luc racine, gaëtan tremblay",
+    "description": "revue politique et culturelle, paraît tous les deux mois sur 112 pages ou plus",
+    "price": "$1.00",
     "editors": [
-      "Philippe Bernard",
-      "Paul Chamberland",
-      "Jan Depocas",
-      "Raoul Duguay",
-      "Pierre Maheu",
-      "Gaston Miron",
-      "Jean-Marc Piotte"
+      "philippe bernard",
+      "paul chamberland",
+      "jan depocas",
+      "raoul duguay",
+      "pierre maheu",
+      "gaston miron",
+      "jean-marc piotte",
+      "patrick straram"
     ],
     "collaborators": [],
     "administration": [
-      "c.p. 149, station \"N\"",
-      "montréal 18, québec"
+      "c.p. 149, station \"N\", montréal 18, québec",
+      "marc laliberté (trésorier)"
     ],
-    "publisher": "",
-    "distributor": "Agence de distribution populaire, 1130 Lagauchetière Est, Tél.: 523-1182"
+    "publisher": "Parti pris",
+    "distributor": "agence de distribution populaire, 1130 Lagauchetière Est, Tél.: 523-1182"
   },
   "toc": [
     {
-      "section": "",
-      "title": "éditorial",
+      "section": "éditorial",
+      "title": "",
       "authors": [],
       "page": "3"
     },
     {
-      "section": "",
-      "title": "présentation",
+      "section": "présentation",
+      "title": "",
       "authors": [
-        "I.r."
+        "l.r."
       ],
       "page": "7"
     },
     {
-      "section": "",
-      "title": "fondation du territoire",
+      "section": "fondation du territoire",
+      "title": "",
       "authors": [
-        "Paul Chamberland"
+        "paul chamberland"
       ],
       "page": "11"
     },
     {
-      "section": "",
-      "title": "production culturelle",
+      "section": "production culturelle",
+      "title": "",
       "authors": [
-        "Luc Racine",
-        "Narcisso Pizarro",
-        "Michel Piquette",
-        "Gilles Bourque"
+        "luc racine",
+        "narcisso pizarro",
+        "michel piquette",
+        "gilles bourque"
       ],
       "page": "43"
     },
     {
-      "section": "",
-      "title": "l'insurrection 1837-38",
+      "section": "l'insurrection 1837-38",
+      "title": "",
       "authors": [
-        "Charles Gagnon"
+        "charles gagnon"
       ],
       "page": "76"
     },
     {
-      "section": "",
-      "title": "culture, décolonisation",
+      "section": "culture, décolonisation",
+      "title": "",
       "authors": [
-        "Philippe Bernard",
-        "Gaëtan Tremblay"
+        "philippe bernard",
+        "gaëtan tremblay"
       ],
       "page": "102"
     },
     {
-      "section": "",
-      "title": "politique culturelle",
+      "section": "politique culturelle",
+      "title": "",
       "authors": [
-        "Andrée Paul",
-        "Raoul Duguay"
+        "andrée paul",
+        "raoul duguay"
       ],
       "page": "121"
     },
     {
-      "section": "",
-      "title": "le castor rouge",
+      "section": "le castor rouge",
+      "title": "",
       "authors": [
-        "Pierre R. Desrosiers"
+        "pierre r. desrosiers"
       ],
       "page": "146"
     },
     {
-      "section": "",
-      "title": "les indiens du québec",
+      "section": "les indiens du québec",
+      "title": "",
       "authors": [
-        "Camil Guy"
+        "camil guy"
       ],
       "page": "165"
     },
     {
-      "section": "",
-      "title": "chroniques",
+      "section": "chroniques",
+      "title": "",
       "authors": [],
-      "page": ""
+      "page": "182"
     },
     {
-      "section": "chroniques",
-      "title": "politique internationale",
+      "section": "politique internationale",
+      "title": "",
       "authors": [
-        "Philippe Bernard"
+        "philippe bernard"
       ],
       "page": "182"
     },
     {
-      "section": "chroniques",
-      "title": "le québec politique",
+      "section": "le québec politique",
+      "title": "",
       "authors": [
-        "Gaëtan Tremblay"
+        "gaëtan tremblay"
       ],
       "page": "186"
     },
     {
-      "section": "chroniques",
-      "title": "le québec syndical",
+      "section": "le québec syndical",
+      "title": "",
       "authors": [
-        "Gabriel Gagnon"
+        "gabriel gagnon"
       ],
       "page": "190"
     },
     {
-      "section": "chroniques",
-      "title": "colonialisme quotidien",
+      "section": "colonialisme quotidien",
+      "title": "",
       "authors": [
-        "P.P."
+        "p.p."
       ],
       "page": "195"
     },
     {
-      "section": "chroniques",
-      "title": "la laïcité",
+      "section": "la laïcité",
+      "title": "",
       "authors": [
-        "Pierre Maheu"
+        "pierre maheu"
       ],
       "page": "196"
     },
     {
-      "section": "",
-      "title": "les essais",
+      "section": "les essais",
+      "title": "",
       "authors": [
-        "Luc Racine"
+        "luc racine"
       ],
       "page": "201"
     },
     {
-      "section": "",
-      "title": "littérature québécoise",
+      "section": "littérature québécoise",
+      "title": "",
       "authors": [
-        "Raoul Duguay"
+        "raoul duguay"
       ],
       "page": "208"
     },
     {
-      "section": "",
-      "title": "interprétation de la vie quotidienne",
+      "section": "interprétation de la vie quotidienne",
+      "title": "",
       "authors": [
-        "Patrick Straram"
+        "patrick straram"
       ],
       "page": "214"
     },
     {
-      "section": "",
-      "title": "marginales",
+      "section": "marginales",
+      "title": "",
       "authors": [],
       "page": "220"
     }

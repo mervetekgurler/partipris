@@ -1,40 +1,38 @@
 {
   "metadata": {
-    "issue_number": "vol. 2, no 4",
+    "volume_number": "2",
+    "issue_number": "4",
     "season_or_month": "décembre",
     "year": "1964",
     "director": "Paul Chamberland, Pierre Maheu",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents",
+    "price": "50 cents, 12 numéros: $5.00",
     "editors": [
-      "Paul Chamberland",
-      "Pierre Maheu"
+      "André Brochu",
+      "René Beaudin"
     ],
     "collaborators": [
-      "André Brochu",
-      "René Beaudin",
-      "Camille Limoges"
+      "Camille Limoges",
+      "L. Girouard"
     ],
     "administration": [
       "Lise Théberge",
-      "J.-M. Piottte",
+      "J.-M. Piotte",
       "Thérèse Major",
       "Robert Maheu"
     ],
-    "publisher": "éditions parti pris",
-    "distributor": "Agence de distribution populaire, La Joie de Lire"
+    "publisher": "Éditions Parti Pris",
+    "distributor": "Agence de distribution populaire"
   },
   "toc": [
     {
       "section": "Éditorial",
       "title": "pas une goutte de sang...",
-      "authors": [
-        "L'Équipe d'édition"
-      ],
+      "authors": [],
       "page": "2"
     },
     {
-      "section": "MONTRÉAL",
+      "section": "Montréal",
       "title": "en guise d'introduction",
       "authors": [
         "Pierre Maheu"
@@ -42,7 +40,7 @@
       "page": "10"
     },
     {
-      "section": "MONTRÉAL",
+      "section": "Montréal",
       "title": "notre environnement urbain",
       "authors": [
         "Jacques Trudel"
@@ -50,7 +48,7 @@
       "page": "21"
     },
     {
-      "section": "MONTRÉAL",
+      "section": "Montréal",
       "title": "politique et annexions",
       "authors": [
         "Pierre Prézeau"
@@ -58,7 +56,7 @@
       "page": "33"
     },
     {
-      "section": "MONTRÉAL",
+      "section": "Montréal",
       "title": "les capitalistes",
       "authors": [
         "Reggie Chartrand"
@@ -66,7 +64,7 @@
       "page": "46"
     },
     {
-      "section": "MONTRÉAL",
+      "section": "Montréal",
       "title": "un déménagement",
       "authors": [
         "André Major"
@@ -82,7 +80,7 @@
       "page": "51"
     },
     {
-      "section": "CHRONIQUES",
+      "section": "Chroniques",
       "title": "un manuel du militant québécois",
       "authors": [
         "Jean-Pierre Trempe"
@@ -90,7 +88,7 @@
       "page": "55"
     },
     {
-      "section": "CHRONIQUES",
+      "section": "Chroniques",
       "title": "réflexions critiques sur la visite de la reine",
       "authors": [
         "Club Parti Pris"
@@ -98,7 +96,7 @@
       "page": "56"
     },
     {
-      "section": "CHRONIQUES",
+      "section": "Chroniques",
       "title": "les \"boeufs\" recrutent pour le r.i.n.",
       "authors": [
         "Jacques Ferron"
@@ -106,7 +104,7 @@
       "page": "58"
     },
     {
-      "section": "CHRONIQUES",
+      "section": "Chroniques",
       "title": "le supplément littéraire du devoir",
       "authors": [
         "Laurent Girouard"
@@ -114,7 +112,7 @@
       "page": "60"
     },
     {
-      "section": "CHRONIQUES",
+      "section": "Chroniques",
       "title": "en lisant \"le cassé\"",
       "authors": [
         "Laurent Girouard"
@@ -122,7 +120,7 @@
       "page": "62"
     },
     {
-      "section": "CHRONIQUES",
+      "section": "Chroniques",
       "title": "les joes de l'arène",
       "authors": [
         "Gérald Godin"

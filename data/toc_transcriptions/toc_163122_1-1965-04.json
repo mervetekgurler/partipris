@@ -1,5 +1,6 @@
 {
   "metadata": {
+    "volume_number": "2",
     "issue_number": "8",
     "season_or_month": "avril",
     "year": "1965",
@@ -12,18 +13,19 @@
       "pierre mahou"
     ],
     "collaborators": [
-      "j.-m. piotte",
       "andré brochu",
       "rené beaudin",
-      "claire e. depocas",
-      "robert maheu"
+      "i. girouard",
+      "claire e. depocas"
     ],
     "administration": [
       "lise théberge",
-      "thérèse major"
+      "j.-m. piotte",
+      "thérèse major",
+      "robert maheu"
     ],
-    "publisher": "l. girouard",
-    "distributor": "Agence de distribution populaire, 418 ouest, Notre-Dame, Montréal. Tél: 849-1146; Dépositaire en France: \"la joie de lire\" 40, rue Saint-Séverin Paris 5e."
+    "publisher": "Parti Pris",
+    "distributor": "Agence de distribution populaire; la joie de lire"
   },
   "toc": [
     {

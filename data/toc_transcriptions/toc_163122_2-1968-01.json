@@ -1,6 +1,7 @@
 {
   "metadata": {
-    "issue_number": "5 no 4",
+    "volume_number": "5",
+    "issue_number": "4",
     "season_or_month": "janvier",
     "year": "1968",
     "director": "philippe bernard",
@@ -42,10 +43,10 @@
       "pierre vallières"
     ],
     "administration": [
-      "jacques des rosiers",
-      "rené bonenfant",
-      "huguette corbo",
-      "marc laliberté"
+      "jacques des rosiers (maquettiste)",
+      "rené bonenfant (maquettiste)",
+      "huguette corbo (secrétaire)",
+      "marc laliberté (trésorier)"
     ],
     "publisher": "parti pris",
     "distributor": "agence de distribution populaire"

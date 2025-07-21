@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "",
     "issue_number": "3",
     "season_or_month": "décembre",
     "year": "1963",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents (12 numéros: $5.00)",
+    "price": "Prix 50 cents, 12 numéros: $5.00",
     "editors": [
       "André Brochu",
       "Paul Chamberland",
@@ -22,7 +23,7 @@
       "Gérald McKenzie",
       "Lise Théberge"
     ],
-    "publisher": "La Revue PARTI PRIS, inc. 790-B av. Champagneur, Montréal (8) Québec",
+    "publisher": "La Revue PARTI PRIS, inc. 790-B av. Champagneur, Montréal (8) Québec.",
     "distributor": "Agence de Distribution Populaire, 1130 est rue Lagauchetière Montréal. Tél. LA 3-1182"
   },
   "toc": [
@@ -33,7 +34,7 @@
       "page": "2"
     },
     {
-      "section": "Articles",
+      "section": "PROGRAMME POLITIQUE ET ELECTORAL",
       "title": "PROGRAMME POLITIQUE ET ELECTORAL",
       "authors": [
         "pierre bourgault"
@@ -49,7 +50,7 @@
       "page": "30"
     },
     {
-      "section": "Articles",
+      "section": "Nouvelles",
       "title": "nouvelles",
       "authors": [
         "andré major"
@@ -57,7 +58,7 @@
       "page": "38"
     },
     {
-      "section": "Articles",
+      "section": "Poèmes",
       "title": "poèmes",
       "authors": [
         "paul chamberland"

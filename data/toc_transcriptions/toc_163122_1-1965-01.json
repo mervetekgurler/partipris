@@ -1,33 +1,35 @@
 {
   "metadata": {
-    "issue_number": "2, no 5",
+    "volume_number": "2",
+    "issue_number": "5",
     "season_or_month": "janvier",
     "year": "1965",
-    "director": "",
+    "director": "l. girouard",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages ou plus",
-    "price": "75 cents / 12 numéros: $5.00",
+    "price": "75 cents",
     "editors": [
       "paul chamberland",
       "claire e. depocas",
       "pierre maheu",
-      "andré brochu",
-      "c. e. depocas"
+      "robert maheu"
     ],
     "collaborators": [
       "lise théberge",
       "j.-m. piotte",
       "thérèse major",
+      "andré brochu",
       "rené beaudin",
-      "camille limoges",
-      "robert maheu"
+      "camille limoges"
     ],
-    "administration": [],
+    "administration": [
+      "2135 rue Bellechasse, app. A, Montréal 35, Québec. TEL. 722-4770 Bureau: sur semaine, de 2 à 5 et de 7 à 10 heures p.m. ou sur rendez-vous."
+    ],
     "publisher": "éditions parti pris",
-    "distributor": "Agence de distribution populaire / \"la joie de lire\""
+    "distributor": "Agence de distribution populaire, 1130 est, rue Lagauchetière, Montréal. Tél.: 523-1182 dépositaire en France: \"la joie de lire\" 40, rue Saint-Séverin Paris 5e."
   },
   "toc": [
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "présentation",
       "authors": [
         "pierre maheu"
@@ -35,7 +37,7 @@
       "page": "2"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "considérations contradictoires",
       "authors": [
         "laurent girouard"
@@ -43,7 +45,7 @@
       "page": "6"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "ainsi soit-il",
       "authors": [
         "andré major"
@@ -51,7 +53,7 @@
       "page": "13"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "le joual et nous",
       "authors": [
         "gérald godin"
@@ -59,7 +61,7 @@
       "page": "18"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "comme tout le monde ou le post-scriptum",
       "authors": [
         "jacques renaud"
@@ -67,7 +69,7 @@
       "page": "20"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "un long chemin",
       "authors": [
         "gaston miron"
@@ -75,7 +77,7 @@
       "page": "25"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "dire ce que je suis",
       "authors": [
         "paul chamberland"
@@ -83,7 +85,7 @@
       "page": "33"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "notes sur le littéraire et le politique",
       "authors": [
         "jacques brault"
@@ -91,7 +93,7 @@
       "page": "43"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "la nouvelle relation écrivain-critique",
       "authors": [
         "andré brochu"
@@ -99,7 +101,7 @@
       "page": "52"
     },
     {
-      "section": "Articles",
+      "section": "sommaire",
       "title": "la chanson d'ici",
       "authors": [
         "stéphane venne"

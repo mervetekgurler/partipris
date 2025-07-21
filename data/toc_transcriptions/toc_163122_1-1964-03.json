@@ -1,5 +1,6 @@
 {
   "metadata": {
+    "volume_number": "",
     "issue_number": "6",
     "season_or_month": "mars",
     "year": "1964",
@@ -20,7 +21,7 @@
       "Pierre Maheu",
       "Robert Maheu",
       "Gérald McKenzie",
-      "Lise Theberge"
+      "Lise Théberge"
     ],
     "publisher": "La Revue PARTI PRIS, Inc.",
     "distributor": "Agence de Distribution Populaire"
@@ -29,12 +30,6 @@
     {
       "section": "",
       "title": "le socialisme",
-      "authors": [],
-      "page": "2"
-    },
-    {
-      "section": "",
-      "title": "éditorial",
       "authors": [],
       "page": "2"
     },
@@ -55,16 +50,16 @@
       "page": "25"
     },
     {
-      "section": "chronique",
-      "title": "du p.s.q. 1",
+      "section": "",
+      "title": "chronique du p.s.q. 1",
       "authors": [
-        "parti pris"
+        "Parti Pris"
       ],
       "page": "45"
     },
     {
-      "section": "chronique",
-      "title": "du p.s.q. 2",
+      "section": "",
+      "title": "chronique du p.s.q. 2",
       "authors": [
         "roger nantel"
       ],
@@ -87,16 +82,16 @@
       "page": "53"
     },
     {
-      "section": "chronique",
-      "title": "de l'information",
+      "section": "",
+      "title": "chronique de l'information",
       "authors": [
         "paul chamberland"
       ],
       "page": "55"
     },
     {
-      "section": "chronique",
-      "title": "de l'éducation",
+      "section": "",
+      "title": "chronique de l'éducation",
       "authors": [
         "laurent girouard"
       ],
@@ -127,16 +122,16 @@
       "page": "63"
     },
     {
-      "section": "lettre",
-      "title": "de jacques berque",
+      "section": "",
+      "title": "lettre de jacques berque",
       "authors": [
         "jacques berque"
       ],
       "page": "24"
     },
     {
-      "section": "notes",
-      "title": "sur l'information",
+      "section": "",
+      "title": "notes sur l'information",
       "authors": [],
       "page": "44"
     }

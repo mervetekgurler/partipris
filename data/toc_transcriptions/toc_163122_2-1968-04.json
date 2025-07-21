@@ -1,5 +1,6 @@
 {
   "metadata": {
+    "volume_number": "5",
     "issue_number": "7",
     "season_or_month": "avril",
     "year": "1968",
@@ -49,13 +50,13 @@
       "jacques des rosiers",
       "rené bonenfant"
     ],
-    "publisher": "Parti Pris",
+    "publisher": "parti pris",
     "distributor": "agence de distribution populaire"
   },
   "toc": [
     {
       "section": "éditorial",
-      "title": "éditorial",
+      "title": "",
       "authors": [],
       "page": "3"
     },
@@ -67,7 +68,7 @@
     },
     {
       "section": "Québec politique",
-      "title": "Québec politiqua",
+      "title": "",
       "authors": [
         "gilles bourque"
       ],
@@ -75,7 +76,7 @@
     },
     {
       "section": "Québec politique",
-      "title": "Québec politiqua",
+      "title": "",
       "authors": [
         "pierre maheu"
       ],
@@ -83,7 +84,7 @@
     },
     {
       "section": "québec syndical",
-      "title": "québec syndical",
+      "title": "",
       "authors": [
         "gabriel gagnon"
       ],
@@ -91,7 +92,7 @@
     },
     {
       "section": "politique internationale",
-      "title": "politique internationale",
+      "title": "",
       "authors": [
         "philippe bernard"
       ],
@@ -99,7 +100,7 @@
     },
     {
       "section": "reportage",
-      "title": "Reportage",
+      "title": "",
       "authors": [
         "pierre renaud",
         "robert tremblay"
@@ -125,9 +126,7 @@
     {
       "section": "",
       "title": "Phrase I de Serge Garant",
-      "authors": [
-        "Serge Garant"
-      ],
+      "authors": [],
       "page": "47"
     },
     {
@@ -139,18 +138,18 @@
       "page": "50"
     },
     {
-      "section": "arts artistiques",
-      "title": "arts artistiques",
+      "section": "",
+      "title": "ies arts artistiques",
       "authors": [
         "thérèse dumouchel"
       ],
       "page": "51"
     },
     {
-      "section": "critique parallèle",
+      "section": "",
       "title": "critique parallèle II",
       "authors": [
-        "andé théberge"
+        "andré théberge"
       ],
       "page": "53"
     },

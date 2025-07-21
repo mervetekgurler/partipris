@@ -1,5 +1,6 @@
 {
   "metadata": {
+    "volume_number": "",
     "issue_number": "8",
     "season_or_month": "mai",
     "year": "1964",
@@ -21,29 +22,31 @@
       "Robert Maheu",
       "Gérald McKenzie"
     ],
-    "publisher": "La Revue PARTI PRIS, Inc. 790-B, av. Champagneur, Montréal (8) Québec.",
-    "distributor": "Agence de Distribution Populaire, 1130 est, rue Lagauchetière Montréal. Tél. LA 3-1182"
+    "publisher": "La Revue PARTI PRIS, Inc.",
+    "distributor": "Agence de Distribution Populaire"
   },
   "toc": [
     {
       "section": "VERS UNE REFORME AGRAIRE",
       "title": "la révolution, c'est le peuple",
-      "authors": [],
+      "authors": [
+        "éditorial"
+      ],
       "page": "2"
     },
     {
       "section": "VERS UNE REFORME AGRAIRE",
       "title": "notes sur le milieu rural",
       "authors": [
-        "Jean-Marc Piotte"
+        "jean-marc piotte"
       ],
       "page": "11"
     },
     {
       "section": "VERS UNE REFORME AGRAIRE",
-      "title": "Jean-Baptiste Alarie, les cochons et la révolution",
+      "title": "les cochons et la révolution",
       "authors": [
-        "Jean-Robert Rémillard"
+        "jean-robert rémillard"
       ],
       "page": "26"
     },
@@ -51,7 +54,7 @@
       "section": "VERS UNE REFORME AGRAIRE",
       "title": "le problème de la colonisation",
       "authors": [
-        "Jean-Claude Lapointe"
+        "jean-claude lapointe"
       ],
       "page": "35"
     },
@@ -59,15 +62,15 @@
       "section": "VERS UNE REFORME AGRAIRE",
       "title": "la \"petite russie\"",
       "authors": [
-        "Roger Guy"
+        "roger guy"
       ],
       "page": "38"
     },
     {
-      "section": "VERS UNE REFORME AGRAIRE",
+      "section": "POÉSIE",
       "title": "j'en arrache pas - poème",
       "authors": [
-        "André Major"
+        "andré major"
       ],
       "page": "46"
     },
@@ -75,7 +78,7 @@
       "section": "CHRONIQUES",
       "title": "l'a.g.e.u.m.",
       "authors": [
-        "Robert Mackay"
+        "robert mackay"
       ],
       "page": "49"
     },
@@ -83,7 +86,7 @@
       "section": "CHRONIQUES",
       "title": "les belles âmes",
       "authors": [
-        "Camille Limoges"
+        "camille limoges"
       ],
       "page": "52"
     },
@@ -97,7 +100,7 @@
       "section": "CHRONIQUES",
       "title": "pour une littérature révolutionnaire",
       "authors": [
-        "André Major"
+        "andré major"
       ],
       "page": "56"
     },
@@ -105,7 +108,7 @@
       "section": "CHRONIQUES",
       "title": "blues pour un homme averti",
       "authors": [
-        "Laurent Girouard"
+        "laurent girouard"
       ],
       "page": "58"
     },
@@ -113,7 +116,7 @@
       "section": "CHRONIQUES",
       "title": "à propos de la ville inhumaine",
       "authors": [
-        "Pierre Maheu"
+        "pierre maheu"
       ],
       "page": "59"
     },
@@ -121,7 +124,7 @@
       "section": "CHRONIQUES",
       "title": "à bas les papas (vulgarité)",
       "authors": [
-        "Serge Grenier"
+        "serge grenier"
       ],
       "page": "62"
     }

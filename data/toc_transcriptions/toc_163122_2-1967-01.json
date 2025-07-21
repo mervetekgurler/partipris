@@ -1,26 +1,31 @@
 {
   "metadata": {
-    "issue_number": "4-5-6",
+    "volume_number": "4",
+    "issue_number": "5 - 6",
     "season_or_month": "janv.-fév.",
     "year": "1967",
-    "director": "gabriel gagnon, luc racine, gaëtan tremblay",
-    "description": "revue politique et culturelle, parait tous les deux mois sur 112 pages ou plus",
-    "price": "le numéro : $1.00, 6 numéros : $6.00",
+    "director": "",
+    "description": "revue politique et culturelle; parait tous les deux mois sur 112 pages ou plus",
+    "price": "le numéro: $1.00, 6 numéros: $6.00",
     "editors": [
-      "philippe bernard",
-      "paul chamberland",
-      "jan depocas",
-      "raoul duguay",
-      "pierre maheu",
-      "gaston miron",
-      "jean-marc piotte"
+      "Gabriel Gagnon",
+      "Luc Racine",
+      "Gaëtan Tremblay",
+      "Philippe Bernard",
+      "Paul Chamberland",
+      "Jan Depocas",
+      "Raoul Duguay",
+      "Pierre Maheu",
+      "Gaston Miron",
+      "Jean-Marc Piotte"
     ],
     "collaborators": [],
     "administration": [
-      "c.p. 149, station \"N\" montréal 18, québec"
+      "Michel Rivet",
+      "Patrick Straram"
     ],
-    "publisher": "parti pris",
-    "distributor": "agence de distribution populaire, 1130 Lagauchetière Est Tél.: 523-1182"
+    "publisher": "Parti Pris",
+    "distributor": "Agence de Distribution Populaire"
   },
   "toc": [
     {
@@ -35,17 +40,17 @@
     },
     {
       "section": "éditorial",
-      "title": "la démocratie a-t-elle un ave- au québec",
+      "title": "la démocratie a-t-elle un ave-au québec",
       "authors": [
-        "guy bourassa"
+        "Guy Bourassa"
       ],
       "page": "6"
     },
     {
       "section": "éditorial",
-      "title": "le r.i.n. : un parti de gauche ?",
+      "title": "le r.i.n.: un parti de gauche?",
       "authors": [
-        "gilles dostaler"
+        "Gilles Dostaler"
       ],
       "page": "17"
     },
@@ -53,8 +58,8 @@
       "section": "histoire et idéologie",
       "title": "histoire et idéologie",
       "authors": [
-        "gilles bourque",
-        "luc racine"
+        "Gilles Bourque",
+        "Luc Racine"
       ],
       "page": "33"
     },
@@ -62,7 +67,7 @@
       "section": "histoire et idéologie",
       "title": "séraphin ou la dépossession",
       "authors": [
-        "pierre desrosiers"
+        "Pierre Desrosiers"
       ],
       "page": "52"
     },
@@ -70,7 +75,7 @@
       "section": "exposé",
       "title": "la réforme agraire à cuba",
       "authors": [
-        "lise rochon"
+        "Lise Rochon"
       ],
       "page": "63"
     },
@@ -78,7 +83,7 @@
       "section": "chroniques",
       "title": "le québec politique",
       "authors": [
-        "gaëtan tremblay"
+        "Gaëtan Tremblay"
       ],
       "page": "71"
     },
@@ -86,7 +91,7 @@
       "section": "chroniques",
       "title": "le québec syndical",
       "authors": [
-        "gabriel gagnon"
+        "Gabriel Gagnon"
       ],
       "page": "77"
     },
@@ -94,7 +99,7 @@
       "section": "chroniques",
       "title": "politique internationale",
       "authors": [
-        "philippe bernard"
+        "Philippe Bernard"
       ],
       "page": "81"
     },
@@ -110,37 +115,37 @@
       "section": "chroniques",
       "title": "la laïcité",
       "authors": [
-        "pierre maheu"
+        "Pierre Maheu"
       ],
       "page": "87"
     },
     {
       "section": "les essais",
-      "title": "les essais",
+      "title": "Les Essais",
       "authors": [
-        "luc racine"
+        "Luc Racine"
       ],
       "page": "89"
     },
     {
-      "section": "les essais",
-      "title": "littérature québécoise",
+      "section": "littérature québécoise",
+      "title": "Littérature québécoise",
       "authors": [
-        "raoul duguay"
+        "Raoul Duguay"
       ],
       "page": "95"
     },
     {
-      "section": "les essais",
-      "title": "interprétations de la vie quotidienne",
+      "section": "interprétations de la vie quotidienne",
+      "title": "Interprétations de la Vie Quotidienne",
       "authors": [
-        "patrick straram"
+        "Patrick Straram"
       ],
       "page": "99"
     },
     {
       "section": "marginales",
-      "title": "marginales",
+      "title": "Marginales",
       "authors": [],
       "page": "107"
     }

@@ -1,28 +1,28 @@
 {
   "metadata": {
+    "volume_number": "4",
     "issue_number": "3-4",
     "season_or_month": "nov.-déc.",
     "year": "1966",
-    "director": "",
+    "director": "gabriel gagnon",
     "description": "revue politique et culturelle, paraît tous les deux mois sur 112 pages ou plus",
-    "price": "$1.00",
+    "price": "le numéro: $1.00, 6 numéros: $6.00",
     "editors": [
-      "gabriel gagnon",
       "luc racine",
-      "gaëtan tremblay"
-    ],
-    "collaborators": [
+      "gaëtan tremblay",
       "philippe bernard",
       "paul chamberland",
       "jan depocas",
       "raoul duguay",
       "pierre maheu",
       "gaston miron",
-      "jean-marc piotte"
-    ],
-    "administration": [
-      "michel rivet",
+      "jean-marc piotte",
       "patrick straram"
+    ],
+    "collaborators": [],
+    "administration": [
+      "c.p. 149, station \"N\" montréal 18, québec",
+      "michel rivet"
     ],
     "publisher": "parti pris",
     "distributor": "agence de distribution populaire, 1130 Lagauchetière Est Tél.: 523-1182"
@@ -46,7 +46,7 @@
     },
     {
       "section": "bilan du cléricalisme",
-      "title": "luc racine",
+      "title": "bilan du cléricalisme",
       "authors": [
         "luc racine"
       ],
@@ -54,7 +54,7 @@
     },
     {
       "section": "bilan du cléricalisme",
-      "title": "pierre maheu",
+      "title": "bilan du cléricalisme",
       "authors": [
         "pierre maheu"
       ],
@@ -62,28 +62,28 @@
     },
     {
       "section": "bilan du cléricalisme",
-      "title": "gaëtan tremblay",
+      "title": "bilan du cléricalisme",
       "authors": [
         "gaëtan tremblay"
       ],
       "page": "57"
     },
     {
-      "section": "bilan du cléricalisme",
-      "title": "le f.l.q. et nous lettre de valères et gagnon",
-      "authors": [
-        "valères",
-        "gagnon"
-      ],
-      "page": "88"
-    },
-    {
-      "section": "bilan du cléricalisme",
+      "section": "",
       "title": "de paris, un texte de michel bernard sur hubert aquin",
       "authors": [
-        "michel bernard"
+        "michel bernard",
+        "hubert aquin"
       ],
       "page": "78"
+    },
+    {
+      "section": "",
+      "title": "le f.l.q. et nous",
+      "authors": [
+        "lettre de valères et gagnon"
+      ],
+      "page": "88"
     },
     {
       "section": "chroniques",
@@ -95,7 +95,7 @@
     },
     {
       "section": "chroniques",
-      "title": "colonialisme quotidien p.p.",
+      "title": "colonialisme quotidien",
       "authors": [
         "p.p."
       ],
@@ -142,7 +142,7 @@
       "page": "121"
     },
     {
-      "section": "chroniques",
+      "section": "",
       "title": "marginales",
       "authors": [],
       "page": "128"

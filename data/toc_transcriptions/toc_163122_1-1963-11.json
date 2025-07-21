@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "",
     "issue_number": "2",
     "season_or_month": "novembre",
     "year": "1963",
     "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 64 pages",
-    "price": "50 cents (12 numéros: $5.00)",
+    "price": "Prix 50 cents; 12 numéros: $5.00",
     "editors": [
       "André Brochu",
       "Paul Chamberland",
@@ -22,8 +23,8 @@
       "Gérard McKenzie",
       "Lise Théberge"
     ],
-    "publisher": "La Revue PARTI PRIS, inc. 790-B rue Champagneur, Montréal (8) Québec",
-    "distributor": "Agence de Distribution Populaire, 1130 est rue Lagauchetière Montréal"
+    "publisher": "La Revue PARTI PRIS, inc.",
+    "distributor": "Agence de Distribution Populaire"
   },
   "toc": [
     {
@@ -114,7 +115,7 @@
     },
     {
       "section": "CHRONIQUES",
-      "title": "I'A.G.E.U.M. perd la guerre des dix sous",
+      "title": "l'A.G.E.U.M. perd la guerre des dix sous",
       "authors": [
         "robert mackay"
       ],

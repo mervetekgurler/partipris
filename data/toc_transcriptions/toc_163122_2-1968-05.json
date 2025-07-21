@@ -1,5 +1,6 @@
 {
   "metadata": {
+    "volume_number": "5",
     "issue_number": "8-9",
     "season_or_month": "été",
     "year": "1968",
@@ -13,9 +14,7 @@
       "gabriel gagnon",
       "pierre maheu",
       "luc racine",
-      "robert tremblay",
-      "jean-pierre urbain",
-      "rené bonenfant"
+      "robert tremblay"
     ],
     "collaborators": [
       "jacques allard",
@@ -48,104 +47,133 @@
       "huguette corbo",
       "marc laliberté"
     ],
-    "publisher": "",
-    "distributor": "agence de distribution populaire, 1130 Lagauchetière est, Montréal"
+    "publisher": "Parti Pris",
+    "distributor": "agence de distribution populaire"
   },
   "toc": [
     {
       "section": "éditorial",
-      "title": "",
-      "author": "",
+      "title": "éditorial",
+      "authors": [],
       "page": "3"
     },
     {
       "section": "québec politique",
-      "title": "",
-      "author": "gilles dostaler",
+      "title": "gilles dostaler",
+      "authors": [
+        "gilles dostaler"
+      ],
       "page": "8"
     },
     {
       "section": "québec politique",
-      "title": "",
-      "author": "charles gagnon",
+      "title": "charles gagnon",
+      "authors": [
+        "charles gagnon"
+      ],
       "page": "9"
     },
     {
       "section": "québec économique",
-      "title": "",
-      "author": "jean-guy loranger",
+      "title": "jean-guy loranger",
+      "authors": [
+        "jean-guy loranger"
+      ],
       "page": "10"
     },
     {
       "section": "québec syndical",
-      "title": "",
-      "author": "gabriel gagnon",
+      "title": "gabriel gagnon",
+      "authors": [
+        "gabriel gagnon"
+      ],
       "page": "12"
     },
     {
       "section": "politique international",
-      "title": "",
-      "author": "philippe bernard",
+      "title": "philippe bernard",
+      "authors": [
+        "philippe bernard"
+      ],
       "page": "15"
     },
     {
       "section": "politique international",
-      "title": "",
-      "author": "gilles dostaler",
+      "title": "gilles dostaler",
+      "authors": [
+        "gilles dostaler"
+      ],
       "page": "16"
     },
     {
       "section": "québec '68: forum-débat",
-      "title": "",
-      "author": "",
+      "title": "québec '68: forum-débat",
+      "authors": [],
       "page": "21"
     },
     {
       "section": "québec '68: forum-débat",
-      "title": "il n'y a pas d'ersatz de la liberté",
-      "author": "françois aquin",
+      "title": "françois aquin: il n'y a pas d'ersatz de la liberté",
+      "authors": [
+        "françois aquin",
+        "jan depocas"
+      ],
       "page": "48"
     },
     {
-      "section": "les étudiants et la question nationale",
-      "title": "",
-      "author": "ronald sabourin",
+      "section": "article",
+      "title": "les étudiants et la question nationale",
+      "authors": [
+        "ronald sabourin"
+      ],
       "page": "57"
     },
     {
-      "section": "a la santé de rudi dutschke et quelques autres",
-      "title": "folk-rock mirabellenwasser",
-      "author": "patrick straram",
+      "section": "article",
+      "title": "a la santé de rudi dutschke et quelques autres folk-rock mirabellenwasser",
+      "authors": [
+        "patrick straram"
+      ],
       "page": "65"
     },
     {
-      "section": "le québec en mots dit",
-      "title": "",
-      "author": "pierre maheu",
+      "section": "article",
+      "title": "le québec en mots dit",
+      "authors": [
+        "pierre maheu"
+      ],
       "page": "74"
     },
     {
-      "section": "la poésie en 1968",
-      "title": "quelques réflexions",
-      "author": "gérald godin",
+      "section": "article",
+      "title": "la poésie en 1968: quelques réflexions",
+      "authors": [
+        "gérald godin"
+      ],
       "page": "75"
     },
     {
-      "section": "objecteur de conscience",
-      "title": "",
-      "author": "raymond lévesque",
+      "section": "article",
+      "title": "objecteur de conscience",
+      "authors": [
+        "raymond lévesque"
+      ],
       "page": "76"
     },
     {
-      "section": "poèmes inédits",
-      "title": "",
-      "author": "gaston miron",
+      "section": "article",
+      "title": "poèmes inédits",
+      "authors": [
+        "gaston miron"
+      ],
       "page": "78"
     },
     {
-      "section": "trois mois après",
-      "title": "",
-      "author": "andré théberge",
+      "section": "article",
+      "title": "trois mois après",
+      "authors": [
+        "andré théberge"
+      ],
       "page": "79"
     }
   ]

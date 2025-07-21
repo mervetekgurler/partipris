@@ -1,11 +1,12 @@
 {
   "metadata": {
+    "volume_number": "3",
     "issue_number": "8",
     "season_or_month": "mars",
     "year": "1966",
-    "director": "la coopérative d'éditions parti pris",
+    "director": "",
     "description": "revue politique et culturelle paraît chaque mois sur 80 pages",
-    "price": "le numéro: 60 cents; 12 numéros: $6.00",
+    "price": "60 cents / 12 numéros: $6.00",
     "editors": [
       "paul chamberland",
       "jan depocas",
@@ -21,17 +22,17 @@
       "thérèse major"
     ],
     "publisher": "la coopérative d'éditions parti pris",
-    "distributor": "Montréal: distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
+    "distributor": "Montréal : distributions Laval Ltée, 290 boulevard Pie IX; Québec: Agence Provinciale (Québec) inc., 226 est, Christophe-Colomb; Hull: Librairie Libre, 130, rue de l'Hôtel-de-Ville"
   },
   "toc": [
     {
-      "section": "Éditorial",
+      "section": "sommaire",
       "title": "individu, situation et morale",
       "authors": [],
       "page": "2"
     },
     {
-      "section": "Article",
+      "section": "sommaire",
       "title": "l'ambiguïté du peuple",
       "authors": [
         "pierre maheu"
@@ -39,7 +40,7 @@
       "page": "6"
     },
     {
-      "section": "Article",
+      "section": "sommaire",
       "title": "la théorie socio-économique du crédit social",
       "authors": [
         "michel mill"
@@ -47,7 +48,7 @@
       "page": "15"
     },
     {
-      "section": "Article",
+      "section": "sommaire",
       "title": "marxisme et créditisme",
       "authors": [
         "georges kostakeff"
@@ -55,7 +56,7 @@
       "page": "33"
     },
     {
-      "section": "Article",
+      "section": "sommaire",
       "title": "méthodes et structures des bérets blancs",
       "authors": [
         "gérald godin"
@@ -95,7 +96,7 @@
       "page": "67"
     },
     {
-      "section": "Marginales",
+      "section": "marginales",
       "title": "marginales",
       "authors": [],
       "page": "72"

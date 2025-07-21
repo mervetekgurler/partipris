@@ -1,6 +1,7 @@
 {
   "metadata": {
-    "issue_number": "4",
+    "volume_number": "4",
+    "issue_number": "1",
     "season_or_month": "sept.-oct.",
     "year": "1966",
     "director": "",
@@ -15,17 +16,15 @@
       "raoul duguay",
       "pierre maheu",
       "gaston miron",
-      "jean-marc piotte",
-      "patrick straram"
+      "jean-marc piotte"
     ],
-    "collaborators": [
+    "collaborators": [],
+    "administration": [
+      "patrick straram",
       "michel rivest"
     ],
-    "administration": [
-      "C.P. 149, station \"N\" Montréal 18, Québec"
-    ],
     "publisher": "la coopérative d'éditions parti pris",
-    "distributor": "Agence de distribution populaire 1130 Lagauchetière Est Tél.: 523-1182"
+    "distributor": "Agence de distribution populaire"
   },
   "toc": [
     {
@@ -109,9 +108,11 @@
       "page": "85"
     },
     {
-      "section": "les essais",
-      "title": "luc racine",
-      "authors": [],
+      "section": "",
+      "title": "les essais",
+      "authors": [
+        "luc racine"
+      ],
       "page": "88"
     },
     {
